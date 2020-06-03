@@ -1,15 +1,15 @@
 Package: com.otuna.fuck.snap
-Version: 9.9.9
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Yanis
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler
 Replaces:
 Filename: /otuna.deb
-Size: 5047324
-MD5sum: 68bee4b574378086b974208f54e977f4
-SHA1: 5512dcf4d7da763fccdc413a77c723490389f6f8
-SHA256: d7078ab7f9ccd59d8ef87a88f3b7439f16043aa09b99c3078793855ba52c4798
+Size: 5046084
+MD5sum: 0791bd0e49a3471ce48f4f9b7b3592ea
+SHA1: 0aad75079e692aef45a01814026bb1cbc183b71c
+SHA256: 84e030897eabf7fb27a1091b16044dc7e28b0de23506e4f46f13f9a1ac7b50e2
 Section: Otuna
 Description: On fuck Snapchat
 Author: Yanis
