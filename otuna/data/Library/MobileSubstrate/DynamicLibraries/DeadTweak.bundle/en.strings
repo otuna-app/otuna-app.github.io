@@ -1,0 +1,700 @@
+/* 
+  File.strings
+  DeadTweak
+
+  Created by a dead guy on [invalid date].
+
+  
+*/
+
+"OK" = "Ok";
+"ERROR" = "Error";
+"YES" = "Yes";
+"NO" = "No";
+"CANCEL" = "Cancel";
+"CONTINUE" = "Continue";
+"DONE" = "Done";
+"WARNING" = "Warning";
+
+/* Page title */
+
+"DEADTWEAK_SETTINGS_PAGE_TITLE" = "DeadTweak Settings";
+"DEADTWEAK_SPOOF_PAGE_TITLE" = "DeadTweak Spoofing";
+"DEADTWEAK_ACCOUNT_MANAGER_PAGE_TITLE" = "DeadTweak Account Switcher";
+
+
+/* DeadTweak Settings main page - Section title */
+
+"DARKMODE_SECTION_TITLE" = "DARKMODE";
+"SAVE_SECTION_TITLE" = "SAVE SETTINGS";
+"SPECIFIC_FOLDER_SECTION_TITLE" = "SPECIFIC FOLDER SETTINGS";
+"SNAP_SECTION_TITLE" = "SNAP SETTINGS";
+"CHAT_SECTION_TITLE" = "CHAT SETTINGS";
+"SCREENSHOTS_SECTION_TITLE" = "SCREENSHOTS DETECTION SETTINGS";
+"MEDIA_SECTION_TITLE" = "MEDIA SETTINGS";
+"MISC_SECTION_TITLE" = "MISCELLANEOUS";
+"LICENSE_SECTION_TITLE" = "LICENSE SETTING";
+"FILES_SECTION_TITLE" = "FILES";
+"SOCIAL_SECTION_TITLE" = "SOCIAL";
+"SUPPORT_SECTION_TITLE" = "SUPPORT";
+"INFO_SECTION_TITLE" = "TECHNICAL INFORMATION";
+
+/* DeadTweak Settings main page - Cell description */
+
+"SB_ENABLE_TITLE" = "Enable DeadTweak";
+"SB_ENABLE_DESCRIPTION" = "Thank you for using DeadTweak.\nToggle switchs to enable / disable features.";
+
+"KILL_[appname]_BUTTON" = "Kill [appname]";
+"RELOAD_NEWS_BUTTON" = "Reload DeadTweak news";
+
+"DARKMODE_DESCRIPTION" = "Enable the dark theme for [appname].";
+
+"SAVE_GALLERY_TITLE" = "Save into Gallery";
+"SAVE_GALLERY_DESCRIPTION" = "Snaps will be saved in your Gallery.";
+
+"SAVE_FOLDER_TITLE" = "Save into Specific Folder";
+"SAVE_FOLDER_DESCRIPTION" = "Snaps will be saved into the '[appname] App/Document/[Random ID]/Your username/Sender Username' folder.\nYou can access it with a File Manager app (like Filza).";
+
+"ENABLE_ADS_TITLE" = "Enable saving ads";
+"ENABLE_FOLDER_DESCRIPTION" = "It will not show an error when you will try to save an ad.";
+
+"OPEN_FILE_MANAGER_BUTTON" = "Open folder with integrated File Manager";
+"OPEN_FILZA_BUTTON" = "Open folder with Filza";
+
+"SAVE_TAGGED_TITLE" = "Save tagged user in its own folder";
+"SAVE_TAGGED_DESCRIPTION" = "The Snap will also be saved in the folder of the tagged username.\nIf the setting below is disabled, the Snap will be saved twice (in the original folder + in the tagged user folder)";
+
+"ONLY_SAVE_TAGGED_TITLE" = "Save only to tagged user's folder";
+"ONLY_SAVE_TAGGED_DESCRIPTION"= "If a user has been tagged in a snap, the snap will only be saved to the tagged user's folder and not to the original folder.\nCAUTION: 'Save tagged user in its own folder' needs to be enabled otherwise no snaps will be saved in tagged user folder.";
+
+"SNAP_UNLIMITED_TITLE" = "View Snaps for an Unlimited times";
+"SNAP_UNLIMITED_DESCRIPTION"= "You can open and close a snap as many times as you want !\nClick on the 'Read Button' and your snap will be marked as read for your friends.";
+
+"SNAP_INFINITE_TITLE" = "View Snaps for an Infinite time";
+"SNAP_INFINITE_DESCRIPTION" = "No more timers !\nPhotos: Infinite Time\nVideos: Infinite Loops";
+
+"STORY_ANONYMOUS_FRIENDS_TITLE" = "View Friends Stories anonymously";
+"STORY_ANONYMOUS_FRIENDS_DESCRIPTION" = "Nobody will see that you watched their story.";
+
+"STORY_ANONYMOUS_DISCOVER_TITLE" = "View Subscribers/Discover Stories anonymously";
+"STORY_ANONYMOUS_DISCOVER_DESCRIPTION" = "Nobody will see that you watched their story.";
+
+"SCREENSHOTS_SNAPS_TITLE" = "Disable Snaps screenshot detection";
+"SCREENSHOTS_SNAPS_DESCRIPTION" = "All screenshots / records notifications of Snaps will be disabled.\nNo one will see you.";
+
+"SCREENSHOTS_CHAT_TITLE" = "Disable Chats screenshot detection";
+"SCREENSHOTS_CHAT_DESCRIPTION" = "All screenshots / records notifications of Chats will be disabled.";
+
+"SPOOF_BUTTON" = "Spoof Settings"; 
+"SWITCH_ACCOUNT_BUTTON" = "Switch Accounts";
+"LANGUAGE_BUTTON" = "Change DeadTweak language";
+
+"RESET_SETTINGS_BUTTON" = "Reset all settings";
+"ERASE_CONTENT_BUTTON" = "Erase all DeadTweak content";
+
+"TWITTER_BUTTON" = "Check news on Twitter";
+"DISCORD_BUTTON" = "Join the discord server";
+"WELCOME_SCREEN_BUTTON" = "Re-open the Welcome screen";
+"SB_WEBSITE_BUTTON" = "Go to the DeadTweak website";
+"LICENSE_MANAGER_BUTTON" = "Access the License Manager";
+"QUESTIONS_FAQ_BUTTON" = "Any questions? Check the FAQ";
+"PROBLEMS_SUPPORT_MAIL_BUTTON" = "Problems, want to add a feature? Send a mail";
+
+"SB_VERSION" = "DeadTweak version";
+"[appname]_VERSION" = "[appname] version";
+
+/* DeadTweak ERRORS and ALERTS */
+
+"FILZA_ERROR" = "Filza appear to not be installed";
+
+"ADS_SAVE_TITLE" = "Saving ads is disabled";
+"ADS_SAVE_MESSAGE" = "To avoid unwanted save of ads, it's disabled by default.\nYou can enable it in the DeadTweak settings.";
+
+"WAIT_MESSAGE" = "Please wait for the snap to be fully loaded before saving it.";
+"SAVE_ERROR_1" = "Internal error of iOS.\nAre you connected to internet?\n\nError: 1";
+"SAVE_ERROR_2" = "Internal error of iOS.\nAre you connected to internet?\n\nError: 2";
+"SAVE_ERROR_3" = "The snap couldn't be saved (clicked too fast?).\nTry again or restart [appname]. (No more space on iPhone?)";
+"SAVE_ERROR_4" = "The media failed to be saved in the folder of: %@"; /* %@ = username */
+"SAVE_ERROR_5" = "Are you connected to internet?";
+"SAVE_ERROR_6" = "Folder for the username: '%@' could not been created."; /* %@ = username */
+
+"UPLOAD_ERROR_1" = "Failed to open the gallery.";
+
+"ACCOUNT_MANAGER_QUICK_ADD_TITLE" = "DeadTweak\nAccount Manager";
+"ACCOUNT_MANAGER_QUICK_ADD_MESSAGE" = "This account is not in the DeadTweak Account Manager (one-click connect feature).\nWould you like us to add it?";
+
+"QUICK_SWITCH_TITLE" = "DeadTweak Quick Switch";
+"QUICK_SWITCH_NO_ACCOUNT" = "There are no accounts registered in the Account Manager. Please add a minimum of one account to use that feature.";
+"QUICK_SWITCH_LOGIN_ONLY_ONE_ACCOUNT" = "Do you want to login to the account: %@?\n\nThis is the only registered account in the account manager."; /* %@ = username */
+"QUICK_SWITCH_SELECT_ACCOUNT" = "\nSelect the account you want to log in to.\n";
+"ACCOUNT_MANAGER_LOGIN_LOADING" = "Connecting to the account\n\n";
+"ACCOUNT_MANAGER_ACTUAL_ACCOUNT" = "(Actual)";
+
+"RESET_SETTINGS_TITLE" = "Reset Settings";
+"RESET_SETTINGS_MESSAGE" = "All settings of DeadTweak will be reset with default value.\n[appname] will close after resetting.";
+
+"ERASE_ALL_TITLE" = "Erase all content";
+"ERASE_ALL_MESSAGE" = "All content in saved folder with photos and videos (not the gallery) and all DeadTweak settings will be erased.\n[appname] will close after resetting.";
+
+"DARKMODE_TITLE" = "Enable Darkmode";
+"DARKMODE_MESSAGE" = "[appname] will restart to apply your request";
+
+/* DeadTweak Spoof page - Section title */
+
+"SPOOF_DATE_SECTION_TITLE" = "SPOOF DATE / HOUR";
+"SPOOF_WEATHER_SECTION_TITLE" = "SPOOF WEATHER";
+"SPOOF_SPEED_SECTION_TITLE" = "SPOOF SPEED";
+"SPOOF_LOCATION_SECTION_TITLE" = "SPOOF LOCATION";
+"SPOOF_VIEWS_SECTION_TITLE" = "SPOOF VIEWS";
+"SPOOF_SCREENSHOTS_SECTION_TITLE" = "SPOOF SCREENSHOTS";
+
+/* DeadTweak Spoof page - Cell description */
+
+"DATE_TITLE" = "Fake date / hour";
+"DATE_DESCRIPTION" = "The date and hours/minutes of the sticker will be faked.";
+
+"DATE" = "Date";
+
+"WEATHER_TITLE" = "Fake weather";
+"WEATHER_DESCRIPTION" = "Degree / Fahrenheit of the sticker will be faked with that value.\n[appname] needs to be killed after changing the value.";
+
+"VALUE" = "Value";
+
+"SPEED_TITLE" = "Fake speed";
+"SPEED_DESCRIPTION" = "The speed of the sticker will be faked with that value.";
+
+"SPEED" = "Speed";
+
+"LOCATION_TITLE" = "Fake Location";
+"LOCATION_DESCRIPTION" = "Fake your location for [appname].\nGet local stickers, change your location for your friends on the map.";
+
+"SELECT_LOCATION_BUTTON" = "Select Location";
+"LATITUDE" = "Latitude";
+"LONGITUDE" = "Longitude";
+
+"FAKE_VIEWS_TITLE" = "Fake Views";
+"FAKE_VIEWS_DESCRIPTION" = "Fake views of your Story.\nYou must enable one of the three options to fake your views.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart [appname] for the changes to take effect.";
+
+"FAKE_SCREENSHOTS_TITLE" = "Fake Screenshots";
+"FAKE_SCREENSHOTS_DESCRIPTION" = "Fake screenshots of your Story.\nYou must enable one of the three options to fake your screenshots.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart [appname] for the changes to take effect.";
+
+"MULTIPLIER_TITLE" = "Multiplier";
+"MULTIPLIER_VIEWS_DESCRIPTION" = "Multiply your views by a value.";
+"MULTIPLIER_SCREENSHOTS_DESCRIPTION" = "Multiply your screenshots by a value.";
+"MULTIPLIER_VALUE" = "Multiplier value";
+
+"STATIC_TITLE" = "Static";
+"STATIC_VIEWS_DESCRIPTION" = "Set your views to a static value.";
+"STATIC_SCREENSHOTS_DESCRIPTION" = "Set your screenshots to a static value.";
+"STATIC_VALUE" = "Static value";
+
+"PSEUDO_RANDOM_TITLE" = "Pseudo Random";
+"PSEUDO_RANDOM_VIEWS_DESCRIPTION" = "Fake your Story views with a random number (capped with a minimum and a maximum views with an interval between each snap story).";
+"PSEUDO_RANDOM_SCREENSHOTS_DESCRIPTION" = "Fake your Story screenshots with a random number (capped with a minimum and a maximum with an interval between each snap story).";
+
+"MINIMUM_VIEWS" = "Minimum views";
+"MINIMUM_SCREENSHOTS" = "Minimum screenshots";
+
+"MAXIMUM_VIEWS" = "Maximum views";
+"MAXIMUM_SCREENSHOTS" = "Maximum screenshots";
+
+"INTERVAL_VIEWS" = "Interval views between stories";
+"INTERVAL_SCREENSHOTS" = "Interval screenshots between stories";
+
+/* DeadTweak Spoof page - Actions Alerts */
+
+"CHANGE_WEATHER" = "Change the weather value";
+"CHANGE_SPEED" = "Change the speed value";
+"BAD_COORDINATES" = "Coordinates you specified (manually) are invalid. Latitude and Longitude have been reset to their default values.";
+"ENTER_LATITUDE" = "Manually enter a latitude";
+"ENTER_LONGITUDE" = "Manually enter a longitude";
+
+"CHANGE_MULTIPLIER" = "Change the multiplier";
+
+"CHANGE_STATIC_VIEWS" = "Change the static number of views";
+"CHANGE_MIN_VIEWS" = "Change the minumum number of views";
+"CHANGE_MAX_VIEWS" = "Change the maximum number of views";
+"CHANGE_INTERVAL_VIEWS" = "Change the interval number of views";
+
+"CHANGE_STATIC_SCREENSHOTS" = "Change the static number of screenshots";
+"CHANGE_MIN_SCREENSHOTS" = "Change the minumum number of screenshots";
+"CHANGE_MAX_SCREENSHOTS" = "Change the maximum number of screenshots";
+"CHANGE_INTERVAL_SCREENSHOTS" = "Change the interval number of screenshots";
+
+"VALUE_PLACEHOLDER" = "Value";
+
+"ERROR_SELECT_FAKE_METHOD" = "You can't enable multiple fake methods at the same time.";
+
+/* DeadTweak Account Manager page - Section title */
+
+"ACCOUNT_MANAGER_SECTION_TITLE" = "ACCOUNT MANAGER";
+"ACCOUNT_LIST_SECTION_TITLE" = "ACCOUNT LIST";
+
+/* DeadTweak Account Manager page - Cell description */
+
+"ACCOUNT_MANAGER_INFORMATION_CELL_TITLE" = "Information about the Account Manager";
+"ACCOUNT_MANAGER_INFORMATION_CELL_DESCRIPTION" = "To switch accounts:\n\n1) Add the account to the account manager below\n\n2) Click on the account you want to switch to\n\n3) Wait and enjoy!\n\nWarning: You will be logged out from your current account and connected to the account you chose.\nThe connection can fail if the account is banned/locked or if the password is incorrect. The account switcher does not bypass 2FA authentication, you will need to enter the code manually if [appname] asks for it.";
+"ADD_ACCOUNT_BUTTON" = "Add Account";
+"CELL_USERNAME" = "Username: %@";
+
+/* DeadTweak Account Manager page - Actions Alerts */
+
+"ADD_ACCOUNT_MANAGER_TITLE" = "Add Account";
+"ADD_ACCOUNT_MANAGER_MESSAGE" = "Input username and password";
+"ADD_ACCOUNT_USERNAME_PLACEHOLDER" = "Username";
+"ADD_ACCOUNT_PASSWORD_PLACEHOLDER" = "Password";
+"ADD" = "Add";
+
+"ACCOUNT_MANAGER_NAME" = "Account Manager";
+"ACCOUNT_MANAGER_SELECTED_CELL_MESSAGE" = "What do you want to do?\nUsername selected: %@";
+"ACCOUNT_MANAGER_SELECTED_CELL_ACTION_1" = "Connect";
+"ACCOUNT_MANAGER_SELECTED_CELL_ACTION_2" = "Delete";
+
+/* License related */
+
+"LICENSE_PROCESSING" = "Processing...\n\n\n";
+"LICENSE_REVOKE_BUTTON" = "Revoke License for this device";
+"LICENSE_REVOKE_TITLE" = "License Revoke";
+"LICENSE_ACTIVATE_BUTTON" = "Activate License";
+"LICENSE_ACTIVATION_SUCCESS_TITLE" = "Activation Succeed";
+"LICENSE_ACTIVATION_SUCCESS_MESSAGE" = "Thank you for using DeadTweak !\nYou can now enable SnabBreak in the settings.\n\nIf you want to unlink the license of this device, you can click on the 'Revoke' button";
+"LICENSE_ACTIVATION_ERROR_TITLE" = "Activation Error";
+
+"SB_ENABLE_NO_LICENSE_TITLE" = "DeadTweak License";
+"SB_ENABLE_NO_LICENSE_MESSAGE" = "You must activate DeadTweak with a license to enable it."; 
+
+"LICENSE_PLACEHOLDER" = "Enter here your License key";
+
+"UNKOWN_ERROR" = "An error occurred\nPlease try again.\nIf the problem persists, contact the support.";
+"LICENSE_ERROR_INTERNET" = "No internet connection\nPlease connect to a network.\nIf the problem persists contact the support.";
+"LICENSE_ALREADY_ACTIVATED" = "You already have activated this license.\nTo use it, please revoke it in the License Manager and re-activate it here.";
+"LICENSE_ALREADY_IN_USE" = "This license is already in use.\n\nIf you want to re-use this license key you need to:\n\n- Go to the License Manager\n- Login to your DeadTweak account\n- Click on 'Revoke this device'\n- Re-activate your license here in the DeadTweak settings.";
+"BAD_LICENSE_KEY" = "Bad license key";
+"UNKOWN_ERROR_2" = "An error occurred when validating the license.\nPlease revoke the license in the License Manager and retry.";
+
+"REVOKE_ERROR_1" = "An error occurred.\nThe license has been removed from the device but the license might not be unlinked in the Licence Manager.";
+"REVOKE_ERROR_2" = "No internet connection.\nThe license has been removed from the device but the license might not be unlinked in the Licence Manager.";
+"REVOKE_SUCCESS" = "The license has been successfully unlinked from this device.\n\nYou can now re-link this license at any time on the device of your choice.";
+
+"CHECK_FAILED_MESSAGE_1" = "A verification of your license cannot be made.\nConnection with DeadTweak license server failed.\n\nCheck your internet connection.\n\nDeadTweak has been disabled. You can re-enable it in the settings at any times or click on the button below (a new attempt will be made).";
+"CHECK_FAILED_ACTION_1" = "Re-enable DeadTweak";
+
+"CHECK_FAILED_MESSAGE_2" = "Your license is not valid. It might been revoked in the License Manager.\n\nDeadTweak is now disabled.\n\nIf it is an error please contact the support.";
+"CHECK_FAILED_ACTION_2" = "Restart [appname]";
+
+"CHECK_FAILED_MESSAGE_3" = "A verification of your license cannot be made.\nA strange behaviour happened.\nIf the problem persists, contact the support.\n\nDeadTweak has been disabled. You can re-enable it in the settings at any times.";
+
+"CHECK_FAILED_MESSAGE_4" = "Your license is not valid. It might have been revoked in the License Manager.\nDeadTweak is now disabled.\n\nIf it is an error please contact the support.";
+
+"OPEN_CYDIA" = "Open Cydia";
+"OPEN_FAQ" = "Open the FAQ page";
+"OPEN_LICENSE_MANAGER" = "Go to the License Manager";
+
+/* DeadTweak News - Version control */
+
+"SB_NEWS" = "DeadTweak News";
+
+/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version */
+"NEW_SB_UPDATE_LATEST_SC" = "A new DeadTweak update (%@) is available for this version of [appname] ! (the current and latest [appname] version %@)\nDownload it in your package manager now.";
+
+/* (1) %@ = new deadtweak update version  |   (2) %@ = compatible [appname] version */
+"NEW_SB_UPDATE_NOT_LATEST_SC_BUT_WORK" = "A new DeadTweak update (%@) is available for this version of [appname] (%@) ! Be careful your [appname] app is not on the latest version and this DeadTweak update doesn't work on it, so DO NOT UPDATE [appname], update only DeadTweak.\n\nDownload it in your package manager now.";
+
+/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version */
+"NEW_SB_UPDATE_LATEST_SC_WORK" = "A new DeadTweak update (%@) is available and works with the latest version of [appname] (%@) !\nYou can update [appname] to the latest version.\n\nWARNING: UPDATE DEADTWEAK BEFORE [appname] !\n\nDownload it in your package manager now.";
+
+/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version   |  (3) %@ = actual [appname] version   |   (4) %@ = compatible [appname] version */
+"NEW_SB_UPDATE_NOT_LATEST_SC" = "A new DeadTweak update (%@) is available ! This update does not work with the latest [appname] version (%@) but can be used with a newer version than the actual version installed (Your version: %@ - Work with: %@).\n\nYou can update [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the DeadTweak update in your package manager.";
+
+/* (1) %@ = new deadtweak update version  |   (2) %@ = actual [appname] version   |  (3) %@ = compatible [appname] version   |   (4) %@ = compatible [appname] version */
+"NEW_SB_UPDATE_NOT_WORK_ACTUAL_SC" = "A new DeadTweak update (%@) is available ! This update might not work (not tested) with the [appname] version that you are running (%@).\nThe update has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please update DeadTweak and downgrade [appname] to the version (%@). You can downgrade [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the DeadTweak update in your package manager.";
+
+"USING_LATEST_SB_AND_LATEST_SC" = "Thank for using DeadTweak.\nYou have the latest version of DeadTweak and the latest version of [appname].\nYou're fine !";
+
+/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = compatible [appname] version */
+"USING_INCOMPATIBLE_SC_VERSION" = "The version of [appname] that you are running (%@) might not work (not tested) with DeadTweak.\nThis version of DeadTweak has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please downgrade [appname] to the version %@. You can downgrade [appname] to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
+
+/* (1) %@ = latest [appname] version */
+"NEW_SC_UPDATE_WORK_SB" = "A new [appname] update (%@) is available and works with DeadTweak !\nYou can safely update [appname] to the latest version.";
+
+/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = latest [appname] version   |   (4) %@ = compatible [appname] version */
+"SC_NOT_LATEST_WORK_SB" = "The version of [appname] that you are running (%@) is supported but this is not the latest version supported by DeadTweak (%@).\n\nWARNING: That doesn't mean that you must update.\nWARNING 2: Do not update [appname] to the latest version (%@). Only update it to the version: %@\n\nYou can update [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)";
+
+/* (1) %@ = latest [appname] version */
+"NEW_SC_SB_NOT_WORK" = "A new version of [appname] (%@) is available but DeadTweak doesn't support it yet.\nPlease DO NOT update [appname].";
+
+/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = compatible [appname] version */
+"SB_NOT_WORK_ACTUAL_SC" = "The version of [appname] that you are running (%@) might not work (not tested) with DeadTweak.\nThis version of DeadTweak has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please downgrade [appname] to the version %@. You can downgrade [appname] to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
+
+"NON_RELEASED_BETA" = "You are on a non released version of DeadTweak. Be careful.";
+
+/* Other */
+
+"DISCORD_ALERT_TITLE" = "DeadTweak Discord";
+"DISCORD_ALERT_MESSAGE" = "Hey ! Are you in our Discord server?\n\nGet all news about DeadTweak (updates, info, ...), get support and chat with other DeadTweak users.";
+"DISCORD_ACTION_1" = "Join the server";
+"DISCORD_ACTION_2" = "No thanks!";
+"DISCORD_ACTION_3" = "Remind me later";
+
+/* Language */
+
+"LANGUAGE_HEADER_TITLE" = "DeadTweak Language";
+"LANGUAGE_SECTION_TITLE" = "LANGUAGE";
+"LANGUAGE_LIST_SECTION_TITLE" = "LANG LIST";
+
+"SELECTED_LANGUAGE_TITLE" = "Language loaded:";
+"LANGUAGE_ITEM_1" = "English";
+"LANGUAGE_ITEM_2" = "French";
+"LANGUAGE_ITEM_3" = "Arabic";
+"LANGUAGE_ITEM_4" = "Spanish";
+"CHANGE_LANGUAGE_TITLE" = "Change DeadTweak language";
+"CHANGE_LANGUAGE_MESSAGE" = "Do you want to change the language to: %@?\n[appname] will restart to apply the new language.";
+
+/* Fake usernames */
+
+"FAKE_USERNAME_PAGE_TITLE" = "Fake Username";
+
+"FAKE_USERNAMES_SECTION_TITLE" = "FAKE USERNAMES";
+"FAKE_USERNAMES_LIST_SECTION_TITLE" = "FAKE LIST";
+
+"FAKE_USERNAME_CELL_TITLE" = "Fake Username";
+"FAKE_USERNAME_CELL_DESCRIPTION" = "Change the username that appear in the profile view of an user to the username of your choice.";
+
+"FAKE_USERNAME_ADD_BUTTON" = "Add a new faked username";
+
+"FAKE_USERNAME_ADD_TITLE" = "Fake a new username";
+"FAKE_USERNAME_ADD_MESSAGE" = "Enter the original username and the fake username.";
+
+"FAKE_USERNAME_ALREADY_EXIST_MESSAGE" = "This username already exist in the list of faked username. Please delete the old fake for this username.";
+
+"FAKE_USERNAME_ORIGINAL_PLACEHOLDER" = "Original username";
+"FAKE_USERNAME_FAKE_PLACEHOLDER" = "Fake username";
+
+"FAKE_USERNAME_NAME" = "Fake username";
+"FAKE_USERNAME_SELECTED_CELL_MESSAGE" = "Do you want to delete the fake username associated to: '%@'?";
+
+"FAKE_USERNAME_CELL_TEXT" = "%@ => %@"; /* (1) %@ = original username   |   (2) %@ = faked username */
+
+/* Hide */
+
+"HIDE_PAGE_TITLE" = "Hide features";
+
+"HIDE_SB_FEATURES_SECTION_TITLE" = "HIDE DEADTWEAK FEATURES";
+"HIDE_BITMOJI_SECTION_TITLE" = "DISABLE BITMOJI";
+"HIDE_SC_FEATURE_SECTION_TITLE" = "HIDE [appname] SECTIONS";
+
+"HIDE_SAVE_TITLE" = "Hide 'Save' Button";
+"HIDE_SAVE_DESCRIPTION" = "Hide the 'Save Button' from the snap view.";
+
+"HIDE_READ_TITLE" = "Hide 'Read' Button";
+"HIDE_READ_DESCRIPTION" = "Hide the 'Read Button' (the eye) from the snap view.";
+
+"HIDE_QUICK_SWITCH_TITLE" = "Hide the Quick Switch button in profile";
+"HIDE_QUICK_SWITCH_DESCRIPTION" = "The Quick Switch button that appear in your profile, will be hidden.";
+
+"HIDE_QUICK_SWITCH_LOGIN_TITLE" = "Hide the Quick Switch button in login";
+"HIDE_QUICK_SWITCH_LOGIN_DESCRIPTION" = "The Quick Switch button that appear in the login screen, will be hidden.";
+
+"DISABLE_BITMOJI_CELL_TITLE" = "Disable all Bitmoji";
+"DISABLE_BITMOJI_CELL_DESCRIPTION" = "No bitmoji will be shown in the application.\n[appname] needs to be restarted.";
+
+"HIDE_FOR_YOU_CELL_TITLE" = "Hide 'For You'";
+"HIDE_FOR_YOU_CELL_DESCRIPTION" = "The 'For You' section in the Story page will be hidden.\n[appname] needs to be restarted.";
+
+"HIDE_FRIEND_PROFILE_MAP_CELL_TITLE" = "Hide the Map in the friend profile";
+"HIDE_FRIEND_PROFILE_MAP_CELL_DESCRIPTION" = "The Map section in the friend profile will be hidden.\n[appname] needs to be restarted.";
+
+"HIDE_GAME_BUTTON_TITLE" = "Disable the Game button";
+"HIDE_GAME_BUTTON_DESCRIPTION" = "The Game button that appear in the Chat will be hidden.";
+
+"CHANGE_UPLOAD_BUTTON_TITLE" = "Old Upload Button";
+"CHANGE_UPLOAD_BUTTON_DESCRIPTION" = "Change the location of the Upload Button (like the old DeadTweak version) in the new UI of [appname].\n[appname] needs to be restarted.";
+
+/* DeadTweak Groups */
+
+"DEADTWEAK_GROUPS_PAGE_TITLE" = "DeadTweak Groups";
+
+"ENABLE_GROUPS_SECTION_TITLE" = "DEADTWEAK GROUPS";
+"HIDE_PRESETS_SECTION_TITLE" = "RECIPIENTS PRESETS";
+"RECIPIENTS_SECTION_TITLE" = "RECIPIENTS";
+
+"ENABLE_GROUPS_TITLE" = "Enable DeadTweak Groups";
+"ENABLE_GROUPS_DESCRIPTION" = "A new section will appear when selecting friends to send your snap.";
+
+"HIDE_FRIENDS_PRESET_TITLE" = "Enable 'Select all Friends' preset";
+"HIDE_FRIENDS_PRESET_DESCRIPTION" = "";
+
+"HIDE_GROUPS_PRESET_TITLE" = "Enable 'Select all Groups' preset";
+"HIDE_GROUPS_PRESET_DESCRIPTION" = "";
+
+"HIDE_STORIES_PRESET_TITLE" = "Enable 'Select all Stories' preset";
+"HIDE_STORIES_PRESET_DESCRIPTION" = "";
+
+"UNLIMITED_RECIPIENTS_TITLE" = "Unlimited recipients";
+"UNLIMITED_RECIPIENTS_DESCRIPTION" = "You can choose unlimited recipients when sending a Snap.\n\nCAUTION: Spamming a large number of people within a short period of time can result in your account being banned.";
+
+"DEADTWEAK_GROUPS_NEW_GROUP_PAGE_TITLE" = "New DeadTweak Group";
+
+"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_TITLE" = "CREATE A NEW DEADTWEAK GROUP";
+"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_DESCRIPTION" = "Select users, stories and groups. Press 'Send' to finish the creation.";
+
+"DEADTWEAK_GROUPS_SELECT_SECTION_TITLE" = "DEADTWEAK GROUPS";
+"DEADTWEAK_GROUPS_SELECT_SECTION_DESCRIPTION" = "Select automatically a set of users.";
+
+"DEADTWEAK_GROUPS_SELECT_CREATE" = "Create a new DeadTweak Group";
+
+"DEADTWEAK_GROUPS_PRESETS_SECTION_TITLE" = "DEADTWEAK PRESETS";
+
+"DEADTWEAK_GROUPS_FRIENDS_PRESET" = "Select/Unselect All Friends";
+"DEADTWEAK_GROUPS_GROUPS_PRESET" = "Select/Unselect All Groups";
+"DEADTWEAK_GROUPS_STORIES_PRESET" = "Select/Unselect All Stories";
+
+"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_TITLE" = "New DeadTweak Group";
+"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_MESSAGE" = "Please define the name of this new group";
+"DEADTWEAK_GROUPS_CREATE_NAME_PLACEHOLDER" = "Group name";
+
+"DEADTWEAK_GROUPS_SELECT_DELETE_ALERT_MESSAGE" = "Do you want to delete the group:\n%@";
+
+"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE" = "DeadTweak group selected:\n%@\n\nWhat do you want to do?";
+"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE_EDIT" = "Edit";
+
+"DEADTWEAK_GROUPS_ALERT_MANY_FRIENDS_MESSAGE" = "A total of %lu friends will be selected/unselected.\nA high number can freeze your device for a short time or make [appname] crash.\n\nDo you want to continue?";
+
+"SELECT_BLOCKED_FRIENDS_TITLE" = "Select blocked friends";
+"SELECT_BLOCKER_FRIENDS_MESSAGE" = "By default when you are selecting all your friends with the 'Select all friends' preset, friends that you have blocked will not be selected.";
+
+/* DeadTweak Chat settings */
+
+"CHAT_SETTINGS_PAGE_TITLE" = "Chat settings";
+
+"HIDE_SECTION_TITLE" = "HIDE PRESENCE";
+"AUTO_SAVE_SECTION_TITLE" = "AUTO SAVE";
+"PINS_SECTION_TITLE" = "PINS";
+"MESSAGES_SECTION_TITLE" = "MESSAGES MANAGEMENT";
+
+"HIDE_PRESENCE_TITLE" = "Hide presence in chat";
+"HIDE_PRESENCE_DESCRIPTION" = "No one will see you typing or waiting in the chat.";
+
+"BASIC_AUTO_SAVE_TITLE" = "Basic Auto Save";
+"BASIC_AUTO_SAVE_DESCRIPTION" = "All new messages received or sent (after activating this feature) will be automatically saved.";
+
+"FORCE_SAVE_TITLE" = "Force Save";
+"FORCE_SAVE_DESCRIPTION" = "All messages loaded in a conversation (from other [appname]ters or sent by you) will be automatically saved.\n\nIf you want to save older messages in the conversation, you need to load them.";
+
+"AUTO_SAVE_ADVANCED_TITLE" = "Advanced Auto Save";
+"AUTO_SAVE_ADVANCED_DESCRIPTION" = "All new messages sent and received in any conversations will be automatically saved.\n\nCAUTION: Messages that you will receive in a conversation will be instantly saved even if you don't open the conversation. (The conversation will stay unread but the sender will see that you saved their messages)";
+
+"ERROR_SELECT_AUTO_SAVE" = "You can't enable multiple auto save methods at the same time.";
+
+"SELECT_UNLIMITED_MEDIAS_TITLE" = "Select unlimited medias";
+"SELECT_UNLIMITED_MEDIAS_DESCRIPTION" = "You will be able to select an unlimited amount of medias from your gallery and send them as one message in the chat.";
+
+"UNLIMITED_PINS_TITLE" = "Unlimited Pins";
+"UNLIMITED_PINS_DESCRIPTION" = "You will be able to Pin an unlimited number of conversations in the conversation list page.\n\n[appname] needs to be restarted.";
+
+"KEEP_DELETED_TITLE" = "Keep deleted messages";
+"KEEP_DELETED_DESCRIPTION" = "Messages that other [appname]ters will delete will not be removed from the conversation.\n\nNOTICE: If the message isn't saved in the conversation, it will disappear like a normal message if you close the conversation.\n\nNOTICE 2: If you want to know what messages has been deleted, you need to enable the feature below called 'Change color of deleted messages'\n\nWARNING: If a message is sent and removed in the conversation by other [appname]ters and you never loaded it first, it will not block its deletion.\n\nWARNING: If you open [appname] without DeadTweak installed, all messages that have not been deleted, will be deleted.\nBe careful to not open [appname] on non-jailbreaked mode\n\nNOTICE 3: This feature will be still enabled if you disable DeadTweak or if there is any problems in the license system.";
+
+"CHANGE_COLOR_TITLE" = "Change color of deleted messages";
+"CHANGE_COLOR_DESCRIPTION" = "The color of deleted messages by others [appname]ters will change to the selected color below.";
+
+"SELECT_COLOR_TITLE" = "Deleted messages color";
+"SELECT_COLOR_VALUE" = "Selected Color";
+
+"KEEP_ALL_TITLE" = "Keep all messages in the chat";
+"KEEP_ALL_DESCRIPTION" = "All message sent and received in a conversation will never be deleted.\nExample: unsaved or expired messages will not be deleted after closing the conversation page.\n\nNOTICE: This only works for you. This doesn't affect the conversation for other [appname]ters (their unsaved messages will still disappear).\n\nNOTICE 2: After the official deletion of unsaved messages (closing the conversation page), all messages will only exist in your device. You can save them but the other [appname]ter will not see them. If you delete your [appname] app or data, all messages will be definitely removed.\n\nWARNING: If you open [appname] without DeadTweak installed (or in non-jailbreaked mode), all messages that have not been deleted, will be deleted.\n\nNOTICE 3: This feature will be still enabled if you disable DeadTweak or if there is any problems in the license system.";
+
+"CACHE_SECTION_TITLE" = "CACHE FILES";
+"CACHE_FILE_INFO_AUTOSAVE" = "The feature 'Basic Auto save' save all messages id to cache file to automatically save theses messages when you open the conversation. With time the file gets bigger if you have many unread messages. If you see any lags in [appname] when loading a conversation, please clear the cache by clicking on the button below (all actual received and unread messages will no longer be saved automatically).";
+"CACHE_FILE_INFO_DELETEDMESSAGES" = "The feature 'Keep deleted messages' save all deleted messages id to cache file to know which messages has been deleted and change the color of this message. With time the file gets bigger if you have many deleted messages. If you have any lags in [appname] when loading a conversation, please clear the cache by clicking on the button below. This will remove all deleted messages id (you will no longer know which messages have been deleted).";
+"CACHE_FILE_CURRENTDATA" = "\n\nCurrent data: %lld Messages id saved in a total of %lld conversations.";
+"CACHE_FILE_LOADING" = "\n\nCurrent data: Loading...";
+
+"CACHE_REMOVE_AUTOSAVE" = "Remove 'Basic Auto Save' cache file";
+"CACHE_REMOVE_DELETED_MESSAGES" = "Remove 'Deleted messages' cache file";
+
+"CACHE_REMOVE_ALERT_MESSAGE" = "Are you sure you want to delete this cache? This action is irreversible.";
+
+
+/* Notifications Settings Page */
+
+"NOTIFICATIONS_PAGE_TITLE" = "Notifications Settings";
+
+"SHOW_REAL_FRIENDS_SECTION_TITLE" = "SHOW REAL NUMBER OF FRIENDS REQUESTS";
+"SPOOF_FRIENDS_SECTION_TITLE" = "SPOOF FRIENDS REQUESTS";
+
+"ALERT_CANT_ENABLE_BOTH_MESSAGE" = "You can't enable both 'Show real Friends notifications' and 'Spoof Friends notification number' at the same time.\nPlease deselect all and retry.";
+"ALERT_SPOOF_FRIENDS_VALUE_MESSAGE" = "Select the fake friends request value.";
+
+"SHOW_REAL_FRIENDS_CELL_TITLE" = "Show real Friends notifications";
+"SHOW_REAL_FRIENDS_CELL_DESCRIPTION" = "The text inside the yellow bubble will now show the real number of friends notifications.\n[appname], by default, limits this number to 99.\n\nYou need to restart [appname] for the changes to take effect.";
+
+"SPOOF_FRIENDS_NOTIFICATION_CELL_TITLE" = "Spoof Friends notifications number";
+"SPOOF_FRIENDS_NOTIFICATION_CELL_DESCRIPTION" = "Change the value of the text inside the yellow bubble that appear when you get friends notifications.\n\nYou need to restart [appname] for the changes to take effect.";
+
+/* Upload Settings page */
+
+"HIDE_UPLOAD_BUTTON_TITLE" = "Hide 'Upload' button";
+"HIDE_UPLOAD_BUTTON_DESCRIPTION" = "Hide the 'Upload' button from the camera view.";
+
+"SPLIT_VIDEO_TITLE" = "Do not split Videos";
+"SPLIT_VIDEO_DESCRIPTION" = "Videos RECORDED with the camera or UPLOADED from the gallery will not be splitted into multiple snaps.";
+
+"AUTO_SCALE_TITLE" = "Auto scale";
+"AUTO_SCALE_DESCRIPTION" = "Media uploaded will be auto scaled. (Zoom in or zoom out to get aspect fit).";
+
+"IMAGE_EDITING_TITLE" = "Image Editor";
+"IMAGE_EDITING_DESCRIPTION" = "When you upload an image, an image editor will show up with multiple editing features.";
+
+"UPLOAD_SETTINGS_BUTTON" = "Upload Medias settings";
+"UPLOAD_MEDIAS_SETTINGS_SECTION_TITLE" = "UPLOAD MEDIAS SETTINGS";
+"NEW_UPLOAD_SECTION_TITLE" = "NEW UPLOAD SYSTEM";
+"THIRD_PARTY_SECTION_TITLE" = "THIRD PARTY APP"; 
+
+"NEW_UPLOAD_SYSTEM_TITLE" = "New Upload System";
+"NEW_UPLOAD_SYSTEM_DESCRIPTION" = "Use the new upload system.\nThe new upload system mimics perfectly the original [appname] upload system.\nYou can use it if you have some problems with the original DeadTweak upload system.\n\nWarning: The feature 'Auto Scale' will not work with this new upload system.\n\nWarning 2: Large videos file can make [appname] unresponsive for few seconds (and can crash for the first time, but you can retry and it will works).";
+
+"THIRD_PARTY_APPNAME_TITLE" = "Remove Third Party App Name";
+"THIRD_PARTY_APPNAME_DESCRIPTION" = "Remove the Third Party Application name in the Snap metadata from Third Party application.\n\nExample: If an application have a button to share a media or include a custom sticker via [appname], the snap send to your story will not have the text '2m ago from AppName'.";
+
+"UPLOAD_VIA_GALLERY_SECTION_TITLE" = "GALLERY UPLOAD";
+"UPLOAD_VIA_GALLERY_TITLE" = "Original Upload from Gallery";
+"UPLOAD_VIA_GALLERY_DESCRIPTION" = "Remove the label 'from Camera Roll' when uploading medias from the [appname] gallery to your Story.\n\nWARNING: This feature only works if you Edit the media before sending it.";
+
+"UNLIMITED_CAPTION_LINE_SECTION_TITLE" = "CAPTIONS";
+"UNLIMITED_CAPTION_LINE_TITLE" = "Unlimited caption lines";
+"UNLIMITED_CAPTION_LINE_DESCRIPTION" = "You are no longer limited to one line in all captions.";
+
+/* Mistake language */
+
+"INFO_ERROR_LANGUAGE_TITLE" = "Mistakes or errors in language";
+"INFO_ERROR_LANGUAGE_MESSAGE" = "If you see errors, misspellings in the text or have problems understanding the description of a feature, do not hesitate to contact support via email.";
+
+/* Barmoji */
+
+"ENABLE_BARMOJI_SECTION_TITLE" = "ENABLE BARMOJI";
+"SHOWN_EMOJIS_SECTION_TITLE" = "SHOWN EMOJIS";
+"BARMOJI_SETTINGS_SECTION_TITLE" =  "BARMOJI SETTINGS";
+"BARMOJI_CREDITS_SECTION_TITLE" = "CREDITS";
+
+"SELECT_SHOWN_EMOJIS_MESSAGE" = "Select shown Emojis";
+
+"EMOJI_SHOWN_RECENT" = "Recent";
+"EMOJI_SHOWN_CUSTOM" = "Custom";
+
+"SELECT_CUSTOM_EMOJI_MESSAGE" = "Enter Custom Emojis";
+"SELECT_FEEDBACK_MESSAGE" = "Select feedback";
+
+"FEEDBACK_EXTRALIGHT" = "Extra Light";
+"FEEDBACK_LIGHT" = "Light";
+"FEEDBACK_MEDIUM" = "Medium";
+"FEEDBACK_STRONG_1" = "Strong";
+"FEEDBACK_STRONG_2" = "Strong 2";
+"FEEDBACK_STONG_3" = "Strong 3";
+"FEEDBACK_NONE" = "None";
+
+"SELECT_SCROLLDIRECTION_MESSAGE" = "Select the scroll direction";
+
+"SCROLL_HORIZONTAL" = "Horizontal";
+"SCROLL_VERTICAL" = "Vertical";
+
+"ENABLE_BARMOJI_TITLE" = "Enable Barmoji";
+"ENABLE_BARMOJI_DESCRIPTION" = "Enable the tweak Barmoji to be loaded in [appname].\n\nBarmoji is included in DeadTweak. You don't need to have Barmoji installed on your device.\n\n[appname] needs to be restarted for apply settings.";
+
+"EMOJI_SOURCE_TITLE" = "Emoji Source";
+"EMOJI_CUSTOM_TITLE" = "Custom Emojis";
+
+"BARMOJI_BOTTOM_BAR_TITLE" = "Bottom Bar";
+"BARMOJI_BOTTOM_BAR_DESCRIPTION" = "The default Barmoji implementation for iPhone X or devices who have enabled the iPhone X layout.";
+
+"BARMOJI_PREDICTIVE_BAR_TITLE" = "Replace Predictive Bar";
+"BARMOJI_PREDICTIVE_BAR_DESCRIPTION" = "Replaces the text prediction bar with Barmoji, useful for non-iPhone X devices.";
+
+"FEEDBACK_TYPE_TITLE" = "Feedback type";
+"SCROLL_DIRECTION_TITLE" = "Scroll Direction";
+
+"BARMOJI_CREDITS" = "Barmoji is a tweak from CPDigitalDarkroom.\n\nBarmoji v2020.1\nCopyright © 2020 CP Digital Darkroom\n\nSpecial thanks to NSExceptional for their contributions in making Barmoji better.";
+
+"X_KEYBOARD_TITLE" = "iPhone X keyboard style";
+"X_KEYBOARD_MESSAGE" = "Enable the iPhone X keyboard style.";
+
+/* Import & Export */
+
+"EXPORT_DEADTWEAK_DATA" = "Export DeadTweak data";
+"IMPORT_DEADTWEAK_DATA" = "Import DeadTweak data";
+
+"IMPORT_ALERT_MESSAGE" = "All your current DeadTweak settings will be erased and replaced by settings included in the backup file.\n\nYour current license activation will not be affected.\n\nYour current 'specific folder' will be merged with the backup one.";
+"IMPORT_ALERT_ACTION" = "Select the backup file";
+
+"IMPORT_PROGRESS_START" = "\nLoading Backup ...";
+"IMPORT_PROGRESS_UNZIP" = "\nUnzipping the backup file ... %i%%";
+"IMPORT_PROGRESS_LOAD_CONFIG" = "\nLoading config file ...";
+"IMPORT_PROGRESS_MERGE" = "\nMerging medias from the Specific folder ...\nThis can take some times if there is a lot of medias.";
+"IMPORT_PROGRESS_MERGE" = "\nLoadings DeadTweak settings files ...";
+
+"IMPORT_SUCCESS" = "Successfully imported the backup!\n\nDeadTweak will now restart to apply all changes.";
+
+"IMPORT_ERROR_1" = "An error happened.\nThe file you selected isn't a valid DeadTweak backup file.";
+"IMPORT_ERROR_2" = "An error happened.\nFailed to Unzip the DeadTweak backup.";
+"IMPORT_ERROR_3" = "An error happened.\nFailed to load the backup config file.";
+"IMPORT_ERROR_4" = "An error happened.\nFailed to read content of the backup file.";
+"IMPORT_ERROR_5" = "An error happened.\nThe 'specific folder' can't be found in this backup.";
+"IMPORT_ERROR_6" = "An error happened.\nFailed to merge the 'specific folder'";
+"IMPORT_ERROR_7" = "An error happened.\nFailed to import user settings (1)";
+"IMPORT_ERROR_8" = "An error happened.\nFailed to import user settings (2)";
+
+"EXPORT_ALERT_MESSAGE" = "All your settings and DeadTweak data will be exported to a backup file.\nYou will be able to load them into a new device or to restore settings.\n\nThe license key and the activation status is not saved in the backup.\n\nThe backup includes: DeadTweak settings, DeadTweak groups, autosave cache file, deleted messages cache file, Account manager, fake usernames...\n\nWe recommend that you to save the backup file to a safe place.";
+
+"EXPORT_SPECIFIC_FOLDER_ALERT" = "Do you want to include all medias save in the Specific folder in this backup?";
+
+"EXPORT_PROGRESS_START" = "\nStarting up ...";
+"EXPORT_PROGRESS_COPY" = "\nCopying files ...";
+"EXPORT_PROGRESS_ZIP" = "\nCreating ZIP file ...";
+"EXPORT_PROGRESS_ZIP_PERCENT" = "\nCreating ZIP file ... %i%%";
+
+"EXPORT_ERROR_1" = "An error happened.\nFailed to create the temporary directory.";
+"EXPORT_ERROR_2" = "An error happened.\nFailed to copy 'specific folder' medias to the temporary directory.";
+"EXPORT_ERROR_3" = "An error happened.\nFailed to create a config file for the backup.";
+
+/* Delete all conversations */
+
+"DELETE_ALL_CONVERSATION_MESSAGE" = "Do you want to delete all conversations?\nThis action is definitive.\nThis can take some time with a large number of conversations.\n\nIf some conversations failed to be deleted, please retry to delete all conversations.";
+"DELETE_ALL_CONVERSATION_DELETING" = "\nDeleting conversations ...\nPlease wait";
+
+/* DeadTweak Fonts */
+
+"CHANGE_FONT_CELL_TITLE" = "Change [appname] font";
+
+"CHANGE_SNAP_FONT_SECTION_TITLE" = "CHANGE [appname] FONT";
+"FONTS_LIST_SECTION_TITLE" = "FONTS LIST";
+"CUSTOM_FONTS_LIST_SECTION_TITLE" = "CUSTOM FONTS LIST";
+
+"DEADTWEAK_FONT_ALERT_TITLE" = "DeadTweak Font";
+
+"CHANGE_FONT_TITLE" = "Change [appname] Font";
+"CHANGE_FONT_DESCRIPTION" = "You can change the [appname] font by an other System font or by a Custom font.\n\nYou can download custom fonts by clicking on 'Download Custom Fonts'. A new page will open with many fonts available for download. Click on the 'Download' button to download the font. The font will be available in the 'Custom Fonts' page.\n\nWARNING 1: Some fonts aren't fully compatible and may crash [appname] (when opening a friend conversation page for example). You can try other available fonts.\n\nWARNING 2: Some fonts that crash [appname] can be fixed be enabling only the regular or bold version of that font.";
+
+"SELECTED_FONT_TITLE" = "Selected font";
+"CHANGE_REGULAR_TITLE" = "Change regular font";
+"CHANGE_BOLD_TITLE" = "Change bold font";
+"[appname]_MUST_BE_RESTARTED" = "[appname] must be restarted to apply the changes.";
+"SYSTEM_FONT_TITLE" = "System Fonts";
+"CUSTOM_FONT_TITLE" = "Custom Fonts";
+"DOWNLOAD_CUSTOM_FONT" = "Download Custom Fonts";
+"RESTORE_DEFAULT_TITLE" = "Restore default font";
+
+"AFONT_CREDIT_TITLE" = "A-Font Credit";
+"AFONT_CREDIT_DESCRIPTION" = "Thank to the website a-font.rpgfarm.com you can download fonts easily for DeadTweak.\n\nCheck out the tweak A-Font made by @Bawappie to change all your iOS system font.";
+
+"SELECT_NEW_FONT_MESSAGE" = "Do you want to select the font '%@' as a default font for [appname]?";
+"RESTORE_DEFAULT_FONT_MESSAGE" = "The default font of [appname] will be restored.\n\n[appname] will be restarted to apply the new selected font.";
+"[appname]_WILL_RESTART" = "[appname] will be restarted to apply the new selected font.";
+
+"START_DOWNLOAD_FONT_MESSAGE" = "Do you want to start the download of the font '%@' ?";
+"DOWNLOADING_FONT_MESSAGE" = "\nDownloading fonts\nPlease wait ...";
+"DOWNLOAD_COMPLETED_MESSAGE" = "Download completed!\n\nYou can find the downloaded font inside the Custom font page.";
+"FONT_ALREADY_DOWNLOADED_MESSAGE" = "The font '%@' is already downloaded.";
+
+"NO_FONTS_DOWNLOADED" = "No Fonts downloaded!";
+"SELECT_FONT_ACTION_TITLE" = "Select this font";
+"CANT_REMOVE_FONT_MESSAGE" = "This font is your actual selected font. You can't remove it.\nPlease select an other font or restore the default [appname] font and retry to delete it.";

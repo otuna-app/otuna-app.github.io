@@ -1,0 +1,551 @@
+"ACCOUNT_LIST_SECTION_TITLE"="قائمة الحسابات";
+"ACCOUNT_MANAGER_ACTUAL_ACCOUNT"="(فعلي)";
+"ACCOUNT_MANAGER_INFORMATION_CELL_DESCRIPTION"="لتبديل الحسابات:\n\n1) أضف الحساب إلى مدير الحساب أدناه\n\n2) انقر فوق الحساب الذي تريد التبديل إليه\n\n3) انتظر واستمتع!\n\nتحذير: سيتم تسجيل خروجك من حسابك الحالي وتوصيلك بالحساب الذي اخترته.\nيمكن أن يفشل الاتصال إذا تم حظر \/ تأمين الحساب أو إذا كانت كلمة المرور غير صحيحة. لا يتجاوز مبدل الحسابات المصادقة الثنائية ، ستحتاج إلى إدخال الرمز يدويًا إذا طلب السناب شات ذلك.";
+"ACCOUNT_MANAGER_INFORMATION_CELL_TITLE"="معلومات حول مدير الحساب";
+"ACCOUNT_MANAGER_LOGIN_LOADING"="جارِ الإتصال بالحساب\n\n";
+"ACCOUNT_MANAGER_NAME"="إدارة الحساب";
+"ACCOUNT_MANAGER_QUICK_ADD_MESSAGE"="هذا الحساب ليس في مدير حساب DeadTweak (ميزة الاتصال بنقرة واحدة).\nهل تريد منا إضافته؟";
+"ACCOUNT_MANAGER_QUICK_ADD_TITLE"="DeadTweak\nإدارة حساب المستخدم";
+"ACCOUNT_MANAGER_SECTION_TITLE"="إدارة الحساب";
+"ACCOUNT_MANAGER_SELECTED_CELL_ACTION_1"="ربط";
+"ACCOUNT_MANAGER_SELECTED_CELL_ACTION_2"="حذف";
+"ACCOUNT_MANAGER_SELECTED_CELL_MESSAGE"="ماذا تريد أن تفعل ؟\nاسم المستخدم المحدد: %@";
+"ADD"="إضافة";
+"ADD_ACCOUNT_BUTTON"="إضافة حساب";
+"ADD_ACCOUNT_MANAGER_MESSAGE"="ادخل اسم المستخدم وكلمة المرور";
+"ADD_ACCOUNT_MANAGER_TITLE"="إضافة حساب";
+"ADD_ACCOUNT_PASSWORD_PLACEHOLDER"="كلمة المرور";
+"ADD_ACCOUNT_USERNAME_PLACEHOLDER"="اسم المستخدم";
+"ADS_SAVE_MESSAGE"="لتجنب الحفظ غير المرغوب فيه للإعلانات ، يتم تعطيله افتراضيًا.\nيمكنك تمكينه في إعدادات DeadTweak.";
+"ADS_SAVE_TITLE"="حفظ الإعلانات معطل";
+"AUTO_SCALE_DESCRIPTION"="الوسائط المحملة سيكون قياسها تلقائي. (يمكنك التكبير أو التصغير للحصول على مظهر مناسب).";
+"AUTO_SCALE_TITLE"="مقياس تلقائي";
+"BAD_COORDINATES"="الإحداثيات التي حددتها (يدويًا) غير صالحة. تمت إعادة تعيين خط العرض وخط الطول إلى قيمهما الافتراضية.";
+"BAD_LICENSE_KEY"="مفتاح ترخيص غير صالح";
+"CANCEL"="إلغاء";
+"CELL_USERNAME"="اسم المستخدم: %@";
+"CHANGE_INTERVAL_SCREENSHOTS"="تغيير عدد الفاصل الزمني من لقطات الشاشة";
+"CHANGE_INTERVAL_VIEWS"="تغيير عدد الفاصل الزمني من المشاهدات";
+"CHANGE_LANGUAGE_MESSAGE"="هل تريد تغيير اللغة إلى: %@ ?\nسيتم إعادة تشغيل السناب لتغيير اللغة.";
+"CHANGE_LANGUAGE_TITLE"="تغيير لغة DeadTweak";
+"CHANGE_MAX_SCREENSHOTS"="تغيير الحد الأقصى لعدد لقطات الشاشة";
+"CHANGE_MAX_VIEWS"="تغيير الحد الأقصى لعدد المشاهدات";
+"CHANGE_MIN_SCREENSHOTS"="تغيير الحد الأدنى لعدد لقطات الشاشة";
+"CHANGE_MIN_VIEWS"="تغيير الحد الأدنى لعدد المشاهدات";
+"CHANGE_MULTIPLIER"="تغيير المضاعف";
+"CHANGE_SPEED"="تغيير قيمة السرعة";
+"CHANGE_STATIC_SCREENSHOTS"="تغيير عدد ثابت من لقطات الشاشة";
+"CHANGE_STATIC_VIEWS"="تغيير عدد ثابت من المشاهدات";
+"CHANGE_WEATHER"="تغيير قيمة الطقس";
+"CHAT_SECTION_TITLE"="إعدادات الدردشة";
+"CHECK_FAILED_ACTION_1"="إعادة تمكين DeadTweak";
+"CHECK_FAILED_ACTION_2"="إعادة تشيل السناب شات";
+"CHECK_FAILED_MESSAGE_1"="لا يمكن إجراء التحقق من الترخيص الخاص بك.\nفشل الاتصال بخادم ترخيص DeadTweak.\n\nتحقق من اتصالك بالإنترنت.\n\nتم تعطيل DeadTweak. يمكنك إعادة تمكينه في الإعدادات في أي وقت أو النقر فوق الزر أدناه (سيتم إجراء محاولة جديدة).";
+"CHECK_FAILED_MESSAGE_2"="الترخيص الخاص بك غير صالح. قد يكون تم إبطالها في مدير الترخيص.\n\nتم تعطيل DeadTweak الآن.\n\nإذا كان خطأ ، يرجى الاتصال بالدعم.";
+"CHECK_FAILED_MESSAGE_3"="لا يمكن إجراء التحقق من الترخيص الخاص بك.\nحدث سلوك غريب.\nإذا استمرت المشكلة ، فاتصل بالدعم.\n\nتم تعطيل DeadTweak. يمكنك إعادة تمكينه في الإعدادات في أي وقت.";
+"CHECK_FAILED_MESSAGE_4"="الترخيص الخاص بك غير صالح. ربما تم إبطالها في مدير الترخيص.\nتم تعطيل DeadTweak الآن.\n\nإذا كان خطأ ، يرجى الاتصال بالدعم.";
+"CONTINUE"="استمرار";
+"DARKMODE_DESCRIPTION"="تمكين الوضع الداكن للسناب شات.";
+"DARKMODE_MESSAGE"="سيتم إعادة تشغيل السناب شات لتنفيذ طلبك";
+"DARKMODE_SECTION_TITLE"="الوضع الداكن";
+"DARKMODE_TITLE"="تفعيل الوضع الداكن";
+"DATE"="التاريخ";
+"DATE_DESCRIPTION"="تاريخ وساعات\/دقائق الملصق ستكون مزورة.";
+"DATE_TITLE"="تزييف التاريخ\/الوقت";
+"DISABLE_BITMOJI_CELL_DESCRIPTION"="لن يتم عرض أي bitmoji في التطبيق.\nيحتاج السناب شات إلى إعادة التشغيل.";
+"DISABLE_BITMOJI_CELL_TITLE"="تعطيل كل الـ Bitmoji";
+"DISCORD_ACTION_1"="انضم لنا على Discord";
+"DISCORD_ACTION_2"="لا شكرًا!";
+"DISCORD_ACTION_3"="ذكرني لاحقًا";
+"DISCORD_ALERT_MESSAGE"="مهلا ! هل أنت في خادم Discord لدينا؟\n\nاحصل على جميع الأخبار حول DeadTweak (التحديثات ، المعلومات ، ...) ، احصل على الدعم والدردشة مع مستخدمي DeadTweak الآخرين.";
+"DISCORD_ALERT_TITLE"="DeadTweak Discord";
+"DISCORD_BUTTON"="أنضم لنا على Discord";
+"DONE"="تم";
+"ENABLE_ADS_TITLE"="تمكين حفظ الإعلانات";
+"ENABLE_FOLDER_DESCRIPTION"="لن يظهر خطأ عند محاولة حفظ إعلان.";
+"ENTER_LATITUDE"="أدخل خط العرض يدويًا";
+"ENTER_LONGITUDE"="أدخل خط الطول يدويا";
+"ERASE_ALL_MESSAGE"="سيتم مسح جميع المحتويات الموجودة في المجلد المحفوظ مع الصور ومقاطع الفيديو (وليس معرض الصور) وجميع إعدادات DeadTweak.\nسيتم إغلاق السناب شات بعد الإعادة.";
+"ERASE_ALL_TITLE"="مسح كافة المحتويات";
+"ERASE_CONTENT_BUTTON"="مسح كل محتوى DeadTweak";
+"ERROR"="خطأ";
+"ERROR_SELECT_FAKE_METHOD"="لا يمكنك تمكين طرق وهمية متعددة في نفس الوقت.";
+"FAKE_SCREENSHOTS_DESCRIPTION"="لقطات شاشة وهمية من قصتك.\nيجب تمكين أحد الخيارات الثلاثة لتزوير لقطات الشاشة.\n\nيجب أن يكون لديك مشاهدة واحدة على الأقل حتى تنجح.\n\nقد تحتاج إلى إعادة تشغيل السناب شات لتصبح التغييرات نافذة المفعول.";
+"FAKE_SCREENSHOTS_TITLE"="لقطات شاشة وهمية";
+"FAKE_USERNAMES_LIST_SECTION_TITLE"="قائمة مزيفة";
+"FAKE_USERNAMES_SECTION_TITLE"="أسماء مزيفة";
+"FAKE_USERNAME_ADD_BUTTON"="إضافة اسم مستخدم مزيف جديد";
+"FAKE_USERNAME_ADD_MESSAGE"="أدخل اسم المستخدم الأصلي واسم المستخدم المزيف.";
+"FAKE_USERNAME_ADD_TITLE"="تزييف اسم مستخدم جديد";
+"FAKE_USERNAME_ALREADY_EXIST_MESSAGE"="اسم المستخدم هذا موجود بالفعل في قائمة اسم المستخدم المزيف. يرجى حذف التزييف القديم لاسم المستخدم هذا.";
+"FAKE_USERNAME_CELL_DESCRIPTION"="تغيير اسم المستخدم الذي يظهر في الملف الشخصي للمستخدم إلى اسم المستخدم الذي تختاره.";
+"FAKE_USERNAME_CELL_TEXT"="%@ => %@";
+"FAKE_USERNAME_CELL_TITLE"="اسم المستخدم المزيف";
+"FAKE_USERNAME_FAKE_PLACEHOLDER"="اسم المستخدم المزيف";
+"FAKE_USERNAME_NAME"="اسم المستخدم المزيف";
+"FAKE_USERNAME_ORIGINAL_PLACEHOLDER"="اسم المستخدم الأصلي";
+"FAKE_USERNAME_PAGE_TITLE"="تزييف اسم المستخدم";
+"FAKE_USERNAME_SELECTED_CELL_MESSAGE"="هل تريد حذف اسم المستخدم المزيف المرتبط بـ: '%@' ?";
+"FAKE_VIEWS_DESCRIPTION"="زيف مشاهدات قصتك.\nيجب تمكين أحد الخيارات الثلاثة لتزييف مشاهداتك.\n\nيجب أن يكون لديك مشاهدة واحدة حقيقية على الأقل حتى تنجح.\n\nقد تحتاج إلى إعادة تشغيل السناب شات لتصبح التغييرات نافذة المفعول.";
+"FAKE_VIEWS_TITLE"="مشاهدات وهمية";
+"FILES_SECTION_TITLE"="الملفات";
+"FILZA_ERROR"="Filza تظهر بإنها غير مثبتة";
+"HIDE_BITMOJI_SECTION_TITLE"="تعطيل BITMOJI";
+"HIDE_FOR_YOU_CELL_DESCRIPTION"="سيتم إخفاء قسم \"من أجلك\" في صفحة القصص.\nيحتاج السناب شات إلى إعادة التشغيل.";
+"HIDE_FOR_YOU_CELL_TITLE"="إخفاء \"من أجلك\"";
+"HIDE_FRIEND_PROFILE_MAP_CELL_DESCRIPTION"="سيتم إخفاء قسم الخريطة في ملف تعريف الأصدقاء.\nيحتاج السناب شات إلى إعادة التشغيل.";
+"HIDE_FRIEND_PROFILE_MAP_CELL_TITLE"="إخفاء الخريطة في ملف تعريف الأصدقاء";
+"HIDE_PAGE_TITLE"="إخفاء الميزات";
+"HIDE_READ_DESCRIPTION"="إخفاء 'زر قراءة' (العين) من واجهة السنابة.";
+"HIDE_READ_TITLE"="إخفاء زر 'قراءة'";
+"HIDE_SAVE_DESCRIPTION"="إخفاء 'زر حفظ' من واجهة السنابة.";
+"HIDE_SAVE_TITLE"="إخفاء زر 'حفظ'";
+"HIDE_SB_FEATURES_SECTION_TITLE"="إخفاء ميزات DEADTWEAK";
+"HIDE_SC_FEATURE_SECTION_TITLE"="إخفاء أقسام السناب شات";
+"IMAGE_EDITING_DESCRIPTION"="عند تحميل صورة ، سيظهر محرر الصور بميزات تحرير متعددة.";
+"IMAGE_EDITING_TITLE"="محرر الصور";
+"INFO_SECTION_TITLE"="معلومات تقنية";
+"INTERVAL_SCREENSHOTS"="وقت لقطات الشاشة بين القصص";
+"INTERVAL_VIEWS"="وقت المشاهدات بين القصص";
+"KILL_[appname]_BUTTON"="إيقاف سناب شات";
+"LANGUAGE_BUTTON"="تغيير لغة DeadTweak";
+"LANGUAGE_HEADER_TITLE"="لغات DeadTweak";
+"LANGUAGE_ITEM_1"="اللغة الإنجليزية";
+"LANGUAGE_ITEM_2"="اللغة الفرنسية";
+"LANGUAGE_ITEM_3"="اللغة العربية";
+"LANGUAGE_LIST_SECTION_TITLE"="قائمة اللغة";
+"LANGUAGE_SECTION_TITLE"="اللغة";
+"LATITUDE"="خط العرض";
+"LICENSE_ACTIVATE_BUTTON"="تفعيل الترخيص";
+"LICENSE_ACTIVATION_ERROR_TITLE"="خطأ تفعيل";
+"LICENSE_ACTIVATION_SUCCESS_MESSAGE"="شكرا لك على استخدام DeadTweak !\nيمكنك الآن تمكين SnabBreak في الإعدادات.\n\nإذا كنت ترغب في إلغاء ربط ترخيص هذا الجهاز ، يمكنك النقر فوق زر 'إبطال'";
+"LICENSE_ACTIVATION_SUCCESS_TITLE"="نجح التنشيط";
+"LICENSE_ALREADY_ACTIVATED"="لقد قمت بالفعل بتنشيط هذا الترخيص.\nلاستخدامه ، يرجى إبطاله في مدير الترخيص وإعادة تنشيطه هنا.";
+"LICENSE_ALREADY_IN_USE" = "هذا الترخيص مستخدم بالفعل اذا اردت ان تعيد استخدامه يجب عليك ان:\n\n- اذهب الى صفحة ادارة الرخص\n- تسجل الدخول لحسابك لاداة DeadTweak \n- اضغط على تعطيل هذا الجهاز'\n- ثم اعد التفعيل في اعدادات DeadTweak ";
+"OPEN_LICENSE_MANAGER" = "فتح صفحة الرخص ";
+"LICENSE_ERROR_INTERNET"="لا يوجد اتصال بالإنترنت\nيرجى الاتصال بشبكة.\nإذا استمرت المشكلة ، فاتصل بالدعم.";
+"LICENSE_MANAGER_BUTTON"="الوصول إلى مدير الترخيص";
+"LICENSE_PLACEHOLDER"="أدخل هنا مفتاح الترخيص الخاص بك";
+"LICENSE_PROCESSING"="معالجة....\n\n\n";
+"LICENSE_REVOKE_BUTTON"="إلغاء الترخيص لهذا الجهاز";
+"LICENSE_REVOKE_TITLE"="إلغاء الترخيص";
+"LICENSE_SECTION_TITLE"="إعدادات الترخيص";
+"LOCATION_DESCRIPTION"="زيف موقعك على السناب شات.\nاحصل على ملصقات محلية ، وقم بتغيير موقعك لأصدقائك على الخريطة.";
+"LOCATION_TITLE"="موقع وهمي";
+"LONGITUDE"="خط الطول";
+"MAXIMUM_SCREENSHOTS"="الحد الأقصى للقطات الشاشة";
+"MAXIMUM_VIEWS"="الحد الأقصى للمشاهدات";
+"MEDIA_SECTION_TITLE"="إعدادات الوسائط";
+"MINIMUM_SCREENSHOTS"="الحد الأدنى للقطات الشاشة";
+"MINIMUM_VIEWS"="الحد الأدنى للمشاهدات";
+"MULTIPLIER_SCREENSHOTS_DESCRIPTION"="اضرب لقطات الشاشة الخاصة بك بقيمة.";
+"MULTIPLIER_TITLE"="المُضاعف";
+"MULTIPLIER_VALUE"="مُضاعف القيمة";
+"MULTIPLIER_VIEWS_DESCRIPTION"="ضاعف مشاهداتك بقيمة.";
+"NEW_SB_UPDATE_LATEST_SC"="تحديث DeadTweak جديد (%@) متاح لهذا الإصدار من السناب شات ! (الاصدار الحالي والأحدث من السناب شات %@)\nقم بتنزيله في مدير الحزم الخاص بك الآن.";
+"NEW_SB_UPDATE_LATEST_SC_WORK"="تحديث DeadTweak جديد (%@) متاح ويعمل مع أحدث إصدار من السناب شات (%@) !\nيمكنك تحديث السناب شات إلى أحدث إصدار.\n\nتحذير: حدث DeadTweak قبل السناب شات !\n\nقم بتنزيله في مدير الحزم الخاص بك الآن.";
+"NEW_SB_UPDATE_NOT_LATEST_SC"="تحديث DeadTweak جديد (%@) متوفر ! لا يعمل هذا التحديث مع أحدث إصدار من السناب شات (%@) ولكن يمكن استخدامها مع إصدار أحدث من الإصدار الفعلي المثبت (اصدارك: %@ - يعمل مع %@).\n\nيمكنك تحديث السناب شات إلى إصدار معين باستخدام AppStore++. (يمكنك التحقق من الأسئلة الشائعة لمعرفة كيفية استخدامها)\n\nقم بتنزيل تحديث DeadTweak في مدير الحزم.";
+"NEW_SB_UPDATE_NOT_LATEST_SC_BUT_WORK"="تحديث DeadTweak جديد (%@) متاح لهذا الإصدار من السناب شات (%@) ! احذر أن تطبيق السناب شات الخاص بك ليس على أحدث إصدار وأن تحديث DeadTweak لا يعمل عليه, لذا لاتحدث السناب شات, حدث DeadTweak فقط.\n\nقم بتنزيله في مدير الحزم الخاص بك الآن.";
+"NEW_SB_UPDATE_NOT_WORK_ACTUAL_SC"="تحديث DeadTweak جديد (%@) متوفر ! قد لا يعمل هذا التحديث (لم يتم اختباره) مع إصدار السناب شات الذي تقوم بإستخدامه (%@).\nتم اختبار التحديث باستخدام إصدار السناب شات: %@.\nيعد استخدام DeadTweak على إصدار غير معتمد رسميًا مخاطرة.\nمن أجل سلامتك ، يرجى تحديث DeadTweak وخفض إصدار السناب شات إلى اصدار (%@). يمكنك إرجاع سناب شات إلى إصدار معين باستخدام AppStore++. (يمكنك التحقق من الأسئلة الشائعة لمعرفة كيفية استخدامها)\n\nقم بتنزيل تحديث DeadTweak في مدير الحزم.";
+"NEW_SC_SB_NOT_WORK"="نسخة جديدة من السناب شات (%@) متاح ولكن DeadTweak لا يدعمها حتى الآن.\nالرجاء عدم تحديث السناب شات.";
+"NEW_SC_UPDATE_WORK_SB"="تحديث سناب شات جديد (%@) متاح ويعمل مع DeadTweak !\nيمكنك تحديث السناب شات بأمان إلى أحدث إصدار.";
+"NO"="لا";
+"NON_RELEASED_BETA"="أنت على إصدار لم يطلق بعد من DeadTweak. كن حذرا.";
+"OK"="تم";
+"ONLY_SAVE_TAGGED_DESCRIPTION"="إذا تم وضع علامة على المستخدم ، فلن يتم الحفظ إلا في مجلد المستخدم الذي تم وضع علامة عليه وليس في المجلد الأصلي.\nتحذير: 'الحفظ للمستخدم المحدد في مجلده الخاص' يحتاج إلى التمكين وإلا فلن يتم حفظ أي لقطات في مجلد المستخدم المحدد.";
+"ONLY_SAVE_TAGGED_TITLE"="حفظ فقط إلى مجلد المستخدم المحدد";
+"OPEN_CYDIA"="فتح Cydia";
+"OPEN_FAQ"="افتح صفحة الأسئلة الشائعة";
+"OPEN_FILE_MANAGER_BUTTON"="فتح المجلد بواسطة مدير ملفات متكامل";
+"OPEN_FILZA_BUTTON"="فتح المجلد بواسطة Filza";
+"PROBLEMS_SUPPORT_MAIL_BUTTON"="مشاكل ، تريد إضافة ميزة؟ أرسل بريد";
+"PSEUDO_RANDOM_SCREENSHOTS_DESCRIPTION"="زيف لقطات الشاشة لقصتك برقم عشوائي (تتم بحد أدنى وحد أقصى مع فاصل زمني بين كل قصة مبكرة).";
+"PSEUDO_RANDOM_TITLE"="تزييف عشوائي";
+"PSEUDO_RANDOM_VIEWS_DESCRIPTION"="زيف مشاهدات قصتك برقم عشوائي (تتم مع الحد الأدنى والحد الأقصى من المشاهدات مع فاصل زمني بين كل قصة مبكرة).";
+"QUESTIONS_FAQ_BUTTON"="أي أسئلة؟ التحقق من التعليمات";
+"QUICK_SWITCH_LOGIN_ONLY_ONE_ACCOUNT"="هل تريد تسجيل الدخول إلى الحساب: %@ ?\n\nهذا هو الحساب المسجل الوحيد في مدير الحساب.";
+"QUICK_SWITCH_NO_ACCOUNT"="لا توجد حسابات مسجلة في مدير الحساب. الرجاء إضافة حساب واحد على الأقل لاستخدام هذه الميزة.";
+"QUICK_SWITCH_SELECT_ACCOUNT"="\nحدد الحساب الذي تريد تسجيل الدخول إليه.\n";
+"QUICK_SWITCH_TITLE"="التبديل السريع الخاص بـ DeadTweak";
+"RELOAD_NEWS_BUTTON"="إعادة تحميل أخبار DeadTweak";
+"RESET_SETTINGS_BUTTON"="امسح كل الاعدادت";
+"RESET_SETTINGS_MESSAGE"="سيتم إعادة تعيين جميع إعدادات DeadTweak بالقيمة الافتراضية.\nسيتم إغلاق السناب شات بعد الإعادة.";
+"RESET_SETTINGS_TITLE"="اعادة الضبط";
+"REVOKE_ERROR_1"="حدث خطأ.\nتمت إزالة الترخيص من الجهاز ولكن قد لا يتم إلغاء ربط الترخيص في مدير الترخيص.";
+"REVOKE_ERROR_2"="لا يوجد اتصال بالإنترنت.\nتمت إزالة الترخيص من الجهاز ولكن قد لا يتم إلغاء ربط الترخيص في مدير الترخيص.";
+"REVOKE_SUCCESS"="تم إلغاء الترخيص بنجاح من هذا الجهاز.\n\nيمكنك الآن إعادة ربط هذا الترخيص في أي وقت على الجهاز الذي تختاره.";
+"SAVE_ERROR_1"="خطأ داخلي في iOS.\nهل انت متصل بالإنترنت ؟\n\nخطأ: 1";
+"SAVE_ERROR_2"="خطأ داخلي في iOS.\nهل انت متصل بالإنترنت ؟\n\nخطأ: 2";
+"SAVE_ERROR_3"="لم يتم حفظ السناب (النقر بسرعة كبيرة؟).\nحاول مجدداً او اعد تشغيل السناب شات. (لا مزيد من المساحة على iPhone؟)";
+"SAVE_ERROR_4"="فشل حفظ الوسائط في مجلد: %@";
+"SAVE_ERROR_5"="هل انت متصل بالإنترنت ؟";
+"SAVE_ERROR_6"="مجلد لاسم المستخدم: '%@' لا يمكن أن تنشأ.";
+"SAVE_FOLDER_DESCRIPTION"="السنابات سيتم حفظها في '[appname] App\/Document\/[Random ID]\/Your username\/Sender Username' folder.\nيمكنك الوصول لها من خلال تطبيق مدير ملفات (مثل Filza).";
+"SAVE_FOLDER_TITLE"="الحفظ في مجلد خاص";
+"SAVE_GALLERY_DESCRIPTION"="سيتم حفظ السنابات في معرض الصور.";
+"SAVE_GALLERY_TITLE"="حفظ في معرض الصور";
+"SAVE_SECTION_TITLE"="حفظ الإعدادات";
+"SAVE_TAGGED_DESCRIPTION"="سيتم أيضًا حفظ السناب في مجلد اسم المستخدم المحدد.\nإذا تم تعطيل الإعداد أدناه, سيتم حفظ السناب مرتين (في المجلد الأصلي+ في مجلد المستخدم المحدد)";
+"SAVE_TAGGED_TITLE"="حفظ المستخدم المحدد في مجلده الخاص";
+"SB_ENABLE_DESCRIPTION"="شكراً لك لإستخدامك DeadTweak\nالتبديل لتفعيل \/ تعطيل الميزات.";
+"SB_ENABLE_NO_LICENSE_MESSAGE"="يجب عليك تنشيط DeadTweak بترخيص لتمكينه.";
+"SB_ENABLE_NO_LICENSE_TITLE"="ترخيص DeadTweak";
+"SB_ENABLE_TITLE"="تفعيل DeadTweak";
+"SB_NEWS"="أخبار DeadTweak";
+"SB_NOT_WORK_ACTUAL_SC"="إصدار السناب شات الذي تقوم بإستخدامه (%@) قد لا يعمل (لم يختبر) مع DeadTweak.\nاصدار DeadTweak  هذا تم اختباره مع اصدار سناب شات: %@.\nUيعد استخدام DeadTweak على إصدار غير معتمد رسميًا مخاطرة.\nمن أجل سلامتك ، يرجى الرجوع إلى إصدار السناب شات  %@. يمكنك إرجاع السناب شات إلى إصدار معين باستخدام AppStore++.\n(يمكنك التحقق من الأسئلة الشائعة لمعرفة كيفية استخدامها)";
+"SB_VERSION"="DeadTweak اصدار";
+"SB_WEBSITE_BUTTON"="انتقل إلى موقع DeadTweak";
+"SCREENSHOTS_CHAT_DESCRIPTION"="سيتم تعطيل جميع إخطارات لقطات \/ تسجيلات الشاشة للدردشات.";
+"SCREENSHOTS_CHAT_TITLE"="تعطيل الكشف عن لقطات الشاشة للدردشة";
+"SCREENSHOTS_SECTION_TITLE"="إعدادات إكتشاف التقاط الشاشة";
+"SCREENSHOTS_SNAPS_DESCRIPTION"="سيتم تعطيل جميع إخطارات لقطات \/ تسجيلات الشاشة للسنابات.\nلا أحد سوف يراك.";
+"SCREENSHOTS_SNAPS_TITLE"="تعطيل اكتشاف لقطة شاشة";
+"SC_NOT_LATEST_WORK_SB"="اصدار السناب الذي تستخدمه (%@) مدعوم ولكن هذا ليس هو أحدث إصدار تدعمه DeadTweak (%@).\n\nتحذير: هذا لا يعني أنه يجب عليك التحديث.\nتحذير 2: لا تقم بتحديث السناب شات إلى أحدث إصدار (%@). فقط قم بتحديثه إلى اصدار: %@\n\nيمكنك تحديث السناب شات إلى إصدار معين باستخدام AppStore++. (يمكنك التحقق من الأسئلة الشائعة لمعرفة كيفية استخدامها)";
+"SELECTED_LANGUAGE_TITLE"="اللغة المحملة:";
+"SELECT_LOCATION_BUTTON"="تحديد موقع";
+"DEADTWEAK_ACCOUNT_MANAGER_PAGE_TITLE"="DeadTweak مُبدل حسابات";
+"DEADTWEAK_SETTINGS_PAGE_TITLE"="DeadTweak إعدادات";
+"DEADTWEAK_SPOOF_PAGE_TITLE"="DeadTweak تزييف";
+"[appname]_VERSION"="اصدار السناب شات";
+"SNAP_INFINITE_DESCRIPTION"="إيقاف المؤقت !\nصور: الوقت لانهائي\nفيديو: إعادات لانهائية";
+"SNAP_INFINITE_TITLE"="عرض السنابات بدون انتهاء";
+"SNAP_SECTION_TITLE"="إعدادات السناب";
+"SNAP_UNLIMITED_DESCRIPTION"="يمكنك فتح وإغلاق السنابات عدة مرات كما تريد !\nانقر فوق 'زر القراءة' وسيتم وضع علامة على قراءاتك على أنها مقروءة لأصدقائك.";
+"SNAP_UNLIMITED_TITLE"="مشاهدة المقاطع والصور عدة مرات ";
+"SOCIAL_SECTION_TITLE"="التواصل";
+"SPECIFIC_FOLDER_SECTION_TITLE"="إعدادات المجلد المخصص";
+"SPEED"="السرعة";
+"SPEED_DESCRIPTION"="سوف تكون سرعة الملصق مزورة مع السرعة المدخلة.";
+"SPEED_TITLE"="سرعة وهمية";
+"SPLIT_VIDEO_DESCRIPTION"="لن يتم تقسيم مقاطع الفيديو المسجلة بالكاميرا أو التي يتم تحميلها من المعرض إلى لقطات متعددة.";
+"SPLIT_VIDEO_TITLE"="لا تقسيم للفيديوهات";
+"SPOOF_BUTTON"="خيارات التزييف";
+"SPOOF_DATE_SECTION_TITLE"="تزييف التاريخ\/الوقت";
+"SPOOF_LOCATION_SECTION_TITLE"="موقع وهمي";
+"SPOOF_SCREENSHOTS_SECTION_TITLE"="لقطات شاشة وهمية";
+"SPOOF_SPEED_SECTION_TITLE"="سرعة وهمية";
+"SPOOF_VIEWS_SECTION_TITLE"="مشاهدات وهمية";
+"SPOOF_WEATHER_SECTION_TITLE"="طقس وهمي";
+"STATIC_SCREENSHOTS_DESCRIPTION"="اضبط لقطات الشاشة على قيمة ثابتة.";
+"STATIC_TITLE"="ثابت";
+"STATIC_VALUE"="قيمة ثابتة";
+"STATIC_VIEWS_DESCRIPTION"="اضبط المشاهدات على قيمة ثابتة.";
+
+"STORY_ANONYMOUS_DISCOVER_TITLE" = "مشاهدة سنابات المشتركين/اكتشف بوضع التخفي";
+"STORY_ANONYMOUS_DISCOVER_DESCRIPTION"="لا أحد سيرى أنك شاهدت القصص الخاصة به.";
+
+"STORY_ANONYMOUS_FRIENDS_TITLE" = "مشاهدة ستوري الأصدقاء بوضع التخفي";
+"STORY_ANONYMOUS_FRIENDS_DESCRIPTION"="لا أحد سيرى أنك شاهدت القصص الخاصة به.";
+
+"SUPPORT_SECTION_TITLE"="الدعم";
+"SWITCH_ACCOUNT_BUTTON"="تبديل الحسابات";
+"TWITTER_BUTTON"="تابع الأخبار على Twitter";
+"UNKOWN_ERROR"="حدث خطأ\nحاول مرة اخرى.\nإذا استمرت المشكلة ، فاتصل بالدعم.";
+"UNKOWN_ERROR_2"="حدث خطأ عند التحقق من الترخيص.\nالرجاء إلغاء الترخيص في مدير الترخيص ثم أعد المحاولة.";
+"UPLOAD_ERROR_1"="فشل في فتح معرض الصور.";
+"USING_INCOMPATIBLE_SC_VERSION"="اصدار السناب شات الذي تستخدمه (%@) قد لا يعمل (لم يختبر) مع DeadTweak.\nتم اختبار هذا الإصدار من DeadTweak باستخدام إصدار السناب شات: %@.\nيعد استخدام DeadTweak على إصدار غير معتمد رسميًا مخاطرة.\nمن أجل سلامتك ، يرجى الرجوع إلى إصدار السناب شات إلى اصدار %@. يمكنك إرجاع سناب شات إلى إصدار معين باستخدام AppStore++.\n(يمكنك التحقق من الأسئلة الشائعة لمعرفة كيفية استخدامها)";
+"USING_LATEST_SB_AND_LATEST_SC"="شكرًا لإستخدامك DeadTweak.\nلديك أحدث إصدار من DeadTweak وأحدث إصدار من السناب شات.\nإنك بخير !";
+"VALUE"="القيمة";
+"VALUE_PLACEHOLDER"="القيمة";
+"WAIT_MESSAGE"="يرجى الانتظار حتى يتم تحميل الأداة الإضافية بالكامل قبل حفظها.";
+"WARNING"="تحذير";
+"WEATHER_DESCRIPTION"="درجة \/ فهرنهايت من الملصق ستكون مزورة بهذه القيمة.\nالسناب شات يحتاج إلى الإيقاف بعد تغيير القيمة.";
+"WEATHER_TITLE"="طقس وهمي";
+"WELCOME_SCREEN_BUTTON"="أعد فتح شاشة الترحيب";
+"YES"="نعم";
+"HIDE_QUICK_SWITCH_TITLE" = "إخفاء زر التبديل السريع في ملف التعريف";
+"HIDE_QUICK_SWITCH_DESCRIPTION" = "سيتم إخفاء زر التبديل السريع الذي يظهر في ملف التعريف الخاص بك.";
+
+"HIDE_QUICK_SWITCH_LOGIN_TITLE" = "إخفاء زر التبديل السريع في تسجيل الدخول";
+"HIDE_QUICK_SWITCH_LOGIN_DESCRIPTION" = "سيتم إخفاء زر التبديل السريع الذي يظهر في شاشة تسجيل الدخول.";
+
+"HIDE_GAME_BUTTON_TITLE" = "تعطيل زر اللعبة";
+"HIDE_GAME_BUTTON_DESCRIPTION" = "سيتم إخفاء زر اللعبة الذي يظهر في الدردشة.";
+
+"HIDE_UPLOAD_BUTTON_TITLE" = "إخفاء زر 'الرفع'";
+"HIDE_UPLOAD_BUTTON_DESCRIPTION" = "اخفاء زر 'الرفع' من واجهة الكاميرا.";
+
+"CHANGE_UPLOAD_BUTTON_TITLE" = "زر التحميل القديم";
+"CHANGE_UPLOAD_BUTTON_DESCRIPTION" = "تغيير موقع زر التحميل (مثل إصدار DeadTweak القديم) في واجهة المستخدم الجديدة لـ السناب شات.\nيحتاج السناب شات إلى إعادة التشغيل.";
+
+"MISC_SECTION_TITLE" = "متنوع";
+
+/* SB Groups */
+ 
+"DEADTWEAK_GROUPS_PAGE_TITLE" = "DeadTweak قروبات";
+ 
+"ENABLE_GROUPS_SECTION_TITLE" = "DEADTWEAK قروبات";
+"HIDE_PRESETS_SECTION_TITLE" = "المستلمين السابقين";
+"RECIPIENTS_SECTION_TITLE" = "المستلمين";
+ 
+"ENABLE_GROUPS_TITLE" = "DeadTweak تفعيل مجموعات ";
+"ENABLE_GROUPS_DESCRIPTION" = "قسم جديد سوف يظهر عند اختيار اصدقاء للارسال لهم.";
+ 
+"HIDE_FRIENDS_PRESET_TITLE" = "تفعيل'تحديد كل الاصدقاء' السابقين";
+"HIDE_FRIENDS_PRESET_DESCRIPTION" = "";
+ 
+"HIDE_GROUPS_PRESET_TITLE" = "تفعيل'تحديد كل المجموعات' السابقة";
+"HIDE_GROUPS_PRESET_DESCRIPTION" = "";
+ 
+"HIDE_STORIES_PRESET_TITLE" = "تفعيل'تحديد كل القصص' السابقة";
+"HIDE_STORIES_PRESET_DESCRIPTION" = "";
+ 
+"UNLIMITED_RECIPIENTS_TITLE" = "مستلمين غير محدودين";
+"UNLIMITED_RECIPIENTS_DESCRIPTION" = "يمكنك اختيار مستلمين غير محددين عند إرسال السنابة.\n\n تحذير: يمكن أن يؤدي إزعاج عدد كبير من الأشخاص خلال فترة زمنية قصيرة إلى حظر حسابك.";
+ 
+"DEADTWEAK_GROUPS_NEW_GROUP_PAGE_TITLE" = " مجموعة DeadTweak جديدة";
+ 
+"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_TITLE" = "إنشاء مجموعة DEADTWEAK جديدة";
+"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_DESCRIPTION" = "اختيار المستخدمين , القصص , المجموعات . اضغط 'ارسال' للانتهاء من انشاء المجموعة";
+ 
+"DEADTWEAK_GROUPS_SELECT_SECTION_TITLE" = "مجموعات DEADTWEAK ";
+"DEADTWEAK_GROUPS_SELECT_SECTION_DESCRIPTION" = "اختيار مجموعة من المستخدمين تلقائياً.";
+ 
+"DEADTWEAK_GROUPS_SELECT_CREATE" = "إنشاء مجموعة DeadTweak جديدة";
+ 
+"DEADTWEAK_GROUPS_PRESETS_SECTION_TITLE" = "DEADTWEAK المسبقة";
+ 
+"DEADTWEAK_GROUPS_FRIENDS_PRESET" = "تحديد/إلغاء تحديد كل الأصدقاء";
+"DEADTWEAK_GROUPS_GROUPS_PRESET" = "تحديد/إلغاء تحديد كل المجموعات";
+"DEADTWEAK_GROUPS_STORIES_PRESET" = "تحديد/إلغاء تحديد كل القصص";
+ 
+"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_TITLE" = "مجموعة DeadTweak جديدة";
+"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_MESSAGE" = "ضع اسم للمجموعة";
+"DEADTWEAK_GROUPS_CREATE_NAME_PLACEHOLDER" = "اسم المجموعة";
+ 
+"DEADTWEAK_GROUPS_SELECT_DELETE_ALERT_MESSAGE" = "هل تريد حذف المجموعة:\n%@";
+
+"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE" = "مجموعة DeadTweak محددة:\n%@\n\n ماذا تريد أن تفعل؟";
+
+"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE" = "مجموعة DeadTweak محددة:\n%@\n\n ماذا تريد أن تفعل؟";
+"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE_EDIT" = "تعديل";
+
+"DEADTWEAK_GROUPS_ALERT_MANY_FRIENDS_MESSAGE" = "مجموع %lu من الاصدقاء سوف يتم تحديدهم/الغاء تحديدهم.\nتحديد كثير من الاصدقاء قد يسبب خروج مفاجئ للتطبيق.\n\هل تريد الاستمرار ؟";
+
+/* DeadTweak Chat settings */
+
+"CHAT_SETTINGS_PAGE_TITLE" = "اعدادات المحادثة";
+"HIDE_SECTION_TITLE" = "اخفاء الحضور";
+"AUTO_SAVE_SECTION_TITLE" = "الحفظ الآلي";
+"MESSAGES_SECTION_TITLE" = "ادارة الرسائل";
+
+"HIDE_SECTION_TITLE" = "اخفاء الحضور";
+"AUTO_SAVE_SECTION_TITLE" = "الحفظ الآلي";
+"MESSAGES_SECTION_TITLE" = "ادارة الرسائل";
+
+"HIDE_PRESENCE_TITLE" = "اخفاء الحضور في المحادثة";
+"HIDE_PRESENCE_DESCRIPTION" = "لا احد يمكنه معرفة انك تكتب او تنتظر في المحادثة.";
+
+"BASIC_AUTO_SAVE_TITLE" = "الحفظ الآلي العادي";
+"BASIC_AUTO_SAVE_DESCRIPTION" = "جميع الرسائل المتلقاة/المرسلة(بعد تفعيل هذة الميزه) سوف يتم حفظها بشكل آلي";
+"FORCE_SAVE_TITLE" = "اجبار الحفظ";
+"FORCE_SAVE_DESCRIPTION" = "جميع الرسائل المحملة في المحادثة و المرسله من المستخدمون الاخرون او المرسله منك سوف يتم حفظها بشكل آلي.\n\اذا اردت ان تحفظ الرسائل القديمة، يجب عليك ان تقوم بتحميلهم(اطلع لأعلى المحادثة).";
+
+"AUTO_SAVE_ADVANCED_TITLE" = "الحفظ الآلي المتقدم";
+"AUTO_SAVE_ADVANCED_DESCRIPTION" = "جميع الرسائل المرسله/المتلقاة في جميع المحادثات سوف يتم حفظها بشكل آلي.\n\nتحذير: الرسائل التي تصلك سوف يتم حفظها في المحادثة حتى وان لم تقم بفتح المحادثة. (المحادثة سوف تبقى غير مقروءة لكن المرسل سوف يرى ان الرسائل قد تم حفظها)";
+
+"ERROR_SELECT_AUTO_SAVE" = "لا يمكنك تفعيل اكثر من ميزه في وقت واحد.";
+
+"SELECT_UNLIMITED_MEDIAS_TITLE" = "قم بتحديد عدد وسائط لانهائي";
+"SELECT_UNLIMITED_MEDIAS_DESCRIPTION" = "ستتمكن من تحديد عدد لانهائي من الوسائط من خلال معرض الصور وإرسالهم في رسالة واحدة في المحادثات";
+
+"PINS_SECTION_TITLE" = "التثبيت";
+"UNLIMITED_PINS_TITLE" = "تثبيت عدد لامحدود من المحادثات";
+"UNLIMITED_PINS_DESCRIPTION" = "سوف تكون قادراً على تدبيس عدد لا محدود من المحادثات في قائمة المحادثات\n\nيجب اعادة تشغيل التطبيق.";
+
+
+"KEEP_DELETED_TITLE" = "ابقاء الرسائل المحذوفة";
+"KEEP_DELETED_DESCRIPTION" = "الرسائل المحذوفة من طرف المستخدمون الاخرون لن يتم حذفها من المحادثة.\n\nملاحظة: اذا لم يتم حفظ الرسائل في المحادثة، , سوف تختفي من المحادثة مثلها مثل اي رسالة عادية اذا اغلقت المحادثة.\n\nالملاحظة ٢: اذا اردت معرفة اي الرسائل قد تم حذفها, يجب عليك تفعيل الميزه التي بالاسفل بإسم 'تغيير لون الرسائل المحذوفة'\n\nتحذير: اذا وصلتك رسالة ثم تم حذفها من قبل المستخدمون الاخرون ولم تقم بتحميلها في بداية الامر, سوف يتم حذفها .\n\nتحذير: اذا فتحت تطبيق السناب شات بدون اداة DeadTweak , جميع الرسائل التي لم تحذف سوف يتم حذفها.\nاحذر ان تقوم بفتح السناب شات بدون الجلبريك\n\nالملاحظة ٣: هذة الميزه ستبقى مفعله اذا قمت بتعطيل الاداة او حصلت مشكلة في نظام السيرفر.";
+
+"CHANGE_COLOR_TITLE" = "تغيير لون الرسائل المحذوفة";
+"CHANGE_COLOR_DESCRIPTION" = "سيتم تمييز الرسائل المحذوفة من قبل الآخرين الدردشه باللون المحدد بالاسفل";
+
+"SELECT_COLOR_TITLE" = "لون الرسائل المحذوفه";
+"SELECT_COLOR_VALUE" = "اللون المختار";
+
+"KEEP_ALL_TITLE" = "ابقاء جميع الرسائل في المحادثة";
+"KEEP_ALL_DESCRIPTION" = "لن يتم حذف الرسائل المرسلة والمتلقاة من المحادثة ابداً.\nمثال: جميع الرسائل الغير محفوظة ستبقى حتى بعد الخروج من المحادثة.\n\nملاحظة: هذة الميزه تظهر لك فقط. لن تؤثر على محادثات المستخدمين الاخرين (رسائلهم الغير محفوظة سوف تختفي).\n\nملاحظة ٢: بعد الحذف الرسمي من تطبيق السناب شات (بعد الخروج من المحادثة),جميع الرسائل ستبقى موجودة في جهازك. يمكنك حفظها بدون علم الاخرون. اذا حذفت تطبيق السناب او بياناته جميع الرسائل سوف تنحذف بكل تاكيد.\n\nتحذير: اذا فتحت تطبيق السناب شات بدون اداة DeadTweak , جميع الرسائل التي لم يتم حذفها سوف تنحذف.\nاحذر ان تقوم بفتح السناب شات بدون الجلبريك\n\nالملاحظة ٣: هذة الميزه ستبقى مفعله اذا قمت بتعطيل الاداة او حصلت مشكلة في نظام السيرفر..";
+
+"CACHE_SECTION_TITLE" = "ملفات التخزين المؤقتة";
+"CACHE_FILE_INFO_AUTOSAVE" = "ميزة 'الحفظ الآلي العادي' تقوم بحفظ معرف الرسائل الى ملفات التخزين المؤقتة ليتم حفظ هذة الرسائل عند فتح المحادثة تلقائياً. مع الوقت يصبح حجم الملف اكبر اذا كان لديك عدد كبير من المحادثات الغير مقروءة. عند ملاحظة اي تاخير او بطء في تحميل المحادثة, قم بتنظيف ملفات التخزين المؤقتة بظغط الزر بالاسفل (لن يتم حفظ جميع الرسائل المستلمة وغير مقروء الفعلية تلقائيا بعد الان).";
+"CACHE_FILE_INFO_DELETEDMESSAGES" = "ميزة 'ابقاء الرسائل المحذوفة' تقوم بحفظ معرف الرسائل لمعرفة اي الرسائل قد تم حذفها ثم تقوم بتغيير لونها. مع الوفت يصبح حجم الملف اكبر اذا كان لديك عدد كبير من الرسائل الحذوفة. عند ملاحظة اي تاخير او بطء في تحميل المحادثة, قم بتنظيف ملفات التخزين المؤقتة بظغط الزر بالاسفل. سوف يتم حذف جميع معرفات الرسائل المحذوفة (لم يعد باستطاعتك معرفة اي رسالة قد تم حذفها).";
+"CACHE_FILE_CURRENTDATA" = "\n\nالبيانات الحالية: %lldعدد معرفات الرسائل المحفوظة في المحادثات هو %lld .";
+"CACHE_FILE_LOADING" = "\n\nالبيانات الحالية: التحميل...";
+
+"CACHE_REMOVE_AUTOSAVE" = "ازالة 'ملف التخزين المؤقت لميزة الحفظ الآلي العادي";
+"CACHE_REMOVE_DELETED_MESSAGES" = "ازالة 'ملف التخزين المؤقت لميزة الرسائل المحذوفه";
+
+"CACHE_REMOVE_ALERT_MESSAGE" = "هل انت متأكد من الحذف؟ (لا يمكنك الرجوع عن هذا الخيار).";
+
+"SELECT_BLOCKED_FRIENDS_TITLE" = "اختر الأصدقاء المحظورين";
+"SELECT_BLOCKER_FRIENDS_MESSAGE" = "عندما تقوم بتفعيل خيار (تحديد جميع الأصدقاء)  الأصدقاء المحظورين لن يتم تحديدهم";
+
+/* Notifications Settings Page */
+
+"NOTIFICATIONS_PAGE_TITLE" = "اعدادات الاشعارات";
+
+"SHOW_REAL_FRIENDS_SECTION_TITLE" = "عرض عدد طلبات الصداقة الحقيقي";
+"SPOOF_FRIENDS_SECTION_TITLE" = "تزييف طلبات الصداقة";
+
+"ALERT_CANT_ENABLE_BOTH_MESSAGE" = "لا يمكنك تفعيل الميزتان 'عرض عدد الاشعارات الحقيقي لطلبات الصداقة' و 'تزييف عدد الاشعارات لطلبات الصداقة' في نفس الوقت .\n من فضلك الغي تحديدالكل وحاول من جديد";
+"ALERT_SPOOF_FRIENDS_VALUE_MESSAGE" = "حدد القيمة المزيفة لطلبات الصداقة";
+
+"SHOW_REAL_FRIENDS_CELL_TITLE" = "عرض الاشعارات الحقيقة لطلبات الصداقة";
+"SHOW_REAL_FRIENDS_CELL_DESCRIPTION" = "الان سوف يتم عرض العدد الحقيقي لطلبات الصداقة داخل الفقاعة الصفراء.\nتطبيق السناب شات, بشكل افتراضي, يحدد هذاالعدد الى ٩٩ فقط.\n\n اعد فتح التطبيق ليتم تفعيل هذه الميزة";
+
+"SPOOF_FRIENDS_NOTIFICATION_CELL_TITLE" = "تزييف عدد اشعارات طلبات الصداقة";
+"SPOOF_FRIENDS_NOTIFICATION_CELL_DESCRIPTION" = "تزييف القيمة المدخلة داخل الفقاعة الصفراء عندما يصلك طلب صداقة.\n\n اعد فتح التطبيق ليتم تفعيل هذه الميزة";
+
+/* Upload Settings page */
+
+"UPLOAD_SETTINGS_BUTTON" = "اعدادات رفع الوسائط";
+"UPLOAD_MEDIAS_SETTINGS_SECTION_TITLE" = "اعدادات رفع الوسائط";
+"NEW_UPLOAD_SECTION_TITLE" = "نظام رفع جديد";
+"THIRD_PARTY_SECTION_TITLE" = "تطبيق الطرف الثالث";
+
+"NEW_UPLOAD_SYSTEM_TITLE" = "نظام رفع جديد";
+"NEW_UPLOAD_SYSTEM_DESCRIPTION" = "استخدم نظام الرفع الجديد.\nنظام الرفع الجديد يعمل على تقليد نفس نظام تطبيق السناب شات بشكل مثالي.\nيمكنك استخدامه اذا واجهتك مشكلة ما مع نظام الرفع الخاص باداة DeadTweak.\n\nتحذير: ميزة القياس الآلى لن تعمل مع نظام الرفع الجديد.\n\nتحدير٢: ملفات الفيديو كبيرة الحجم قد تجعل التطبيق غير مستجيب لثواني  (وقد تواجه خروج مفاجئ للتطبيق، عاود المحاولة وسوف يعمل بشكل جيد).";
+
+"THIRD_PARTY_APPNAME_TITLE" = "ازالة اسم تطبيق الطرف الثالث";
+"THIRD_PARTY_APPNAME_DESCRIPTION" = "ازاله اسم تطبيق الطرف الثالث من بيانات السناب شات.\n\nمثال: اذا نشرت اي وسائط من اي تطبيق يسمح لك بمشاركة الوسائط عن طريقه سوف يظهر في قصتك بهذا الشكل منذ ٢ دقيقة (اسم التطبيق) مع تفعيل الميرة هذة سوف يتم ازالة اسم التطبيق من قصتك'.";
+
+"UPLOAD_VIA_GALLERY_SECTION_TITLE" = "الرفع من الاستديو";
+"UPLOAD_VIA_GALLERY_TITLE" = "الرفع الاصلي من الاستديو";
+"UPLOAD_VIA_GALLERY_DESCRIPTION" = "ازالة الملصق 'من البوم الصور' عند رفع الوسائط من استديو السناب شات الى قصتك.\n\nتحذير: تعمل هذه الميزه فقط اذا قمت بتحرير الوسائط قبل نشرها.";
+
+"UNLIMITED_CAPTION_LINE_SECTION_TITLE" = "النصوص";
+"UNLIMITED_CAPTION_LINE_TITLE" = "عدد أسطر لانهائي للنصوص";
+"UNLIMITED_CAPTION_LINE_DESCRIPTION" = "يمكنك الان أضافه اكثر من سطر داخل السنابه.";
+
+/* Mistake language */
+
+"INFO_ERROR_LANGUAGE_TITLE" = "الاخطاء او المشاكل في اللغة";
+"INFO_ERROR_LANGUAGE_MESSAGE" = "اذا رايت اي خطأ او غلط في اللغة او الترجمة من فضلك لا تتردد في التواصل مع الدعم عن طريق الإيميل.";
+
+/* Barmoji */
+
+"ENABLE_BARMOJI_SECTION_TITLE" = " BARMOJIتفعيل ";
+"SHOWN_EMOJIS_SECTION_TITLE" = "الايموجي الظاهر";
+"BARMOJI_SETTINGS_SECTION_TITLE" =  "BARMOJI اعدادات";
+"BARMOJI_CREDITS_SECTION_TITLE" = "شكراْ لــــ";
+
+"SELECT_SHOWN_EMOJIS_MESSAGE" = "اختر الايموجي ";
+
+"EMOJI_SHOWN_RECENT" = "المستخدم مؤخرا";
+"EMOJI_SHOWN_CUSTOM" = "مخصص";
+
+"SELECT_CUSTOM_EMOJI_MESSAGE" = " اختر الايموجي المخصص";
+"SELECT_FEEDBACK_MESSAGE" = "اختر رده الفعل ";
+
+"FEEDBACK_EXTRALIGHT" = "رده فعل خفيف جدا";
+"FEEDBACK_LIGHT" = "رده فعل خفيف";
+"FEEDBACK_MEDIUM" = "رده فعل متوسطه";
+"FEEDBACK_STRONG_1" = "رده فعل قويه 1";
+"FEEDBACK_STRONG_2" = "رده فعل قويه 2";
+"FEEDBACK_STONG_3" = "رده فعل قويه جدا 3";
+"FEEDBACK_NONE" = "لاشئ";
+
+"SELECT_SCROLLDIRECTION_MESSAGE" = "اختر اتجاه التمرير";
+
+"SCROLL_HORIZONTAL" = "افقي";
+"SCROLL_VERTICAL" = "عمودي";
+
+"ENABLE_BARMOJI_TITLE" = "Barmoji تفعيل";
+"ENABLE_BARMOJI_DESCRIPTION" = "لتفعيل اداه Barmoji في [appname]\n\nاداه بارموجي مدمجه مع اداه DeadTweak. اداه بارموجي غير مثبته على جهازك\n\nتطبيق سنابتشات يحتاج لاعاده التشغيل لتطبيق اعداداتك";
+
+"EMOJI_SOURCE_TITLE" = "مصدر الايموجي";
+"EMOJI_CUSTOM_TITLE" = "ايموجيز مخصصه";
+
+"BARMOJI_BOTTOM_BAR_TITLE" = "الشريط السفلي";
+"BARMOJI_BOTTOM_BAR_DESCRIPTION" = "الاعدادات الاساسيه لأداة Barmoji هي لشكل كيبورد IPhone X او مفعل مظهر IPhone X  او اعلى";
+
+"BARMOJI_PREDICTIVE_BAR_TITLE" = "استبدال شريط المصحح التلقائي ";
+"BARMOJI_PREDICTIVE_BAR_DESCRIPTION" = "استبدال شريط المصحح التلقائي باداه Barmoji, ينفع للاجهزه القديمه الكيبورد غير مشابه IPhone X";
+
+"FEEDBACK_TYPE_TITLE" = "نوع الاهتزاز";
+"SCROLL_DIRECTION_TITLE" = "اتجاه التمرير";
+
+"BARMOJI_CREDITS" = "  اداه بارموجي مقدمه من CPDigitalDarkroom.\n\nBarmoji v2020.1\nجميع الحقوق محفوظه © 2020 CP Digital Darkroom\n\nشكرا خاص لـ NSExceptional لدعمهم خاصيه Barmoji و جعلها افضل";
+
+"X_KEYBOARD_TITLE" = "تصميم الكيبورد مشابه لـIPhone X";
+"X_KEYBOARD_MESSAGE" = "تفعيل خاصيه الكيبورد مشابه لاجهزه IPhone X";
+
+/* Import & Export */
+
+"EXPORT_DEADTWEAK_DATA" = "تصدير بيانات DeadTweak";
+"IMPORT_DEADTWEAK_DATA" = "استيراد بيانات DeadTweak";
+
+"IMPORT_ALERT_MESSAGE" = "جميع اعدادت DeadTweak سيتم مسحها واستبدالها بالاعدادات الموجوده في ملف النسخه الاحتياطيه (الباك اب)\n\nرخصتك الحاليه لن تتأثر .\n\nالملف الحالي (الملف المخصص) سيتم دمجه مع ملف النسخه الاحتياطيه";
+"IMPORT_ALERT_ACTION" = "اختر ملف النسخه الاحتياطيه";
+
+"IMPORT_PROGRESS_START" = "جاري تحميل النسخه الاحتياطيه ...";
+"IMPORT_PROGRESS_UNZIP" = "جاري فك ضغط النسخه الاحتياطيه ...%i%%";
+"IMPORT_PROGRESS_LOAD_CONFIG" = "تحميل ملف الاعدادات ...";
+"IMPORT_PROGRESS_MERGE" = "دمج الميديا(الصور والمقاطع من الملف المخصص مسبقا) ...\nقد تستغرق العمليه وقت اطول اذا كان عددهم كبير(الصور والمقاطع)";
+"IMPORT_PROGRESS_MERGE" = "جاري تحميل املف اعدادات DeadTweak ...";
+
+"IMPORT_SUCCESS" = "نجحت عمليه استيراد ملفات النسخه الاحتياطيه!\n\nسيتم اعاده تشغيل DeadTweak لتطبيق الاعدادات";
+
+"IMPORT_ERROR_1" = "لقد حدث خطأ .\nالملف الذي قمت باختياره ملف غير صالح ان يكون ملف نسخه احتياطيه ";
+"IMPORT_ERROR_2" = "لقد حدث خطأ .\nفشل في فك الضغط عن ملف النسخه الاحتياطيه لاداه DeadTweak";
+"IMPORT_ERROR_3" = "لقد حدث خطأ .\nفشل في تحميلي الملف المخصص للاعدادات (config).";
+"IMPORT_ERROR_4" = "لقد حدث خطأ .\nفشل في قراءه ملف محتويات النسخه الاحتياطيه ";
+"IMPORT_ERROR_5" = "لقد حدث خطأ .\nلم يمكن العثور على (الملف المخصص) في النسخه الاحتياطيه.";
+"IMPORT_ERROR_6" = "لقد حدث خطأ .\nفشل في عمليه دمج (الملف المخصص)";
+"IMPORT_ERROR_7" = "لقد حدث خطأ .\nفشلت عمليه استيراد اعدادات المستخدم (1)";
+"IMPORT_ERROR_8" = "لقد حدث خطأ .\nفشلت عمليه استيراد اعدادات المستخدم (2)";
+
+"EXPORT_ALERT_MESSAGE" = "جميع اعدادات DeadTweak سيتم تصديرها كملف نسخه احتياطيه.\nسوف يكون بامكانك استعادتها لاحقا او نقلها لجهاز اخر.\n\n ملف التفعيل(الترخيص) للااداه لن يكون مدمج في ملف النسخه الاحتياطيه \n\nتتضمن النسخة الاحتياطية: إعدادات DeadTweak ومجموعات DeadTweak وملف ذاكرة التخزين المؤقت للحفظ التلقائي وملف ذاكرة التخزين المؤقت للرسائل المحذوفة ومدير الحساب وأسماء المستخدمين المزيفة ...\n\nاحفظ الملف في مكان امن ";
+
+"EXPORT_SPECIFIC_FOLDER_ALERT" = "هل تريد تضمين جميع الوسائط المحفوظة في (الملف المخصص)في هذه النسخة الاحتياطية ?";
+
+"EXPORT_PROGRESS_START" = "البدء ...";
+"EXPORT_PROGRESS_COPY" = "نسخ جميع الملفات ...";
+"EXPORT_PROGRESS_ZIP" = "انشاء ملف نسخه مضغوطه ...";
+"EXPORT_PROGRESS_ZIP_PERCENT" = "جاري انشاء ملف مضغوط (ZIP) ... %i%%";
+
+"EXPORT_ERROR_1" = "لقد حدث خطأ.\nفشلت عمليه انشاء ملف دليل مؤقت.";
+"EXPORT_ERROR_2" = "لقد حدث خطأ.\nفشلت عمليه نسخ (الملف المخصص) للصور و المقاطع لمجلد الدليل(directory)";
+"EXPORT_ERROR_3" = "لقد حدث خطأ.\nفشلت عمليه انشاء ملف مخصص للأعدادات (Config)";
+
+"DELETE_ALL_CONVERSATION_MESSAGE" = "هل تريد حذف جميع المحادثات؟ \nهذه الخطوه نهائيه.\nقد تستغرق عمليه حذف جميع المحادثات وقت اطول من المتوقع إذًا كان عددها كبير.\n\nإذا فشلت عمليه حذف كل المحادثات او بعضها, قم بإعادة حذفها كلها مره أخرى .";
+"DELETE_ALL_CONVERSATION_DELETING" = "\nجاري حذف جميع المحادثات ...\nلحظات من فضلك.";
+
+/* DeadTweak Fonts */
+
+"CHANGE_FONT_CELL_TITLE" = "تغير خطوط [appname]";
+
+"CHANGE_SNAP_FONT_SECTION_TITLE" = "تغير شكل الخط لـ[appname]";
+"FONTS_LIST_SECTION_TITLE" = "قائمة الخطوط";
+"CUSTOM_FONTS_LIST_SECTION_TITLE" = "قائمة الخطوط المخصصة ";
+
+"DEADTWEAK_FONT_ALERT_TITLE" = "شكل الخط لإعدادات DEADTWEAK";
+
+"CHANGE_FONT_TITLE" = "تبديل الخط لـ[appname]";
+"CHANGE_FONT_DESCRIPTION" = "تستطيع من هذا الاعداد ان تستبدل الخط لـ[appname] لأي خط مخصص تريده.\n\nتستطيع إعداد وتحميل أي خط تريده من قائمة 'تحميل خطوط مخصصة'.سيتم فتح صفحة جديدة لنوع الخطوط المتاحة للتحميل.اضغط على زر 'تحميل' 
+‎لتحميل الخط المطلوب، سيكون الخط بملف بصفحة الخطوط المخصصة''.\n\nتحذير 1: بعض الخطوط غير متوافقة بشكل كلي مع [appname] (مثلا: عند فتح صفحة المحادثات قد يتسبب بحدوث خروج مفاجئ-كراش-). يمكنك تجريب بعض الخطوط المتوفرة الأخرى.\n\nتحذير 2: بعض الخطوط المتسببة بالخروج المفاجئ-كراش- يمكنك تفادي المشكلة باستخدام الخط العريض من نفس نوع الخط أو تقوم بتفعيل الخطا العادي";
+
+"SELECTED_FONT_TITLE" = "الخطوط المحددة";
+"CHANGE_REGULAR_TITLE" = "تبديل الخط العادي ";
+"CHANGE_BOLD_TITLE" = "تبديل الخط العريض";
+"[appname]_MUST_BE_RESTARTED" = "يجب عليك القيام بإعادة تشغيل [appname]";
+"SYSTEM_FONT_TITLE" = "خطوط النظام";
+"CUSTOM_FONT_TITLE" = "خطوط مخصصة";
+"DOWNLOAD_CUSTOM_FONT" = "تحميل خطوط مخصصة";
+"RESTORE_DEFAULT_TITLE" = "استعادة الخط الأساسي";
+
+"AFONT_CREDIT_TITLE" = "شكر لـ A-FONT";
+"AFONT_CREDIT_DESCRIPTION" = "شكر لـ موقع a-font.rpgfarm.com يمكنك تحميل الخطوط لـDEADTWEAK من الموقع.\n\nالف نظرة على أداة A-Font من @Bawappie لاستبدال أيضا خط نظام iOS بشكل كامل.";
+
+"SELECT_NEW_FONT_MESSAGE" = "هل تود اختيار الخط  '%@' كخط أساسي لـ [appname]";
+"RESTORE_DEFAULT_FONT_MESSAGE" = "سيتم استعادة الخط الأساسي الرئيسي لـ [appname].\n\nسيتم إعادة تشغيل [appname] لاستعادة الخط الأساسي .";
+"[appname]_WILL_RESTART" = "سيتم أعاده تشغيل [appname] لتطبيق الخط .";
+
+"START_DOWNLOAD_FONT_MESSAGE" = "هل تود بالبدء بعملية تنزل خط '%@' ؟";
+"DOWNLOADING_FONT_MESSAGE" = "\nجاري تحميل الخط\nالرجاء الانتظار ...";
+"DOWNLOAD_COMPLETED_MESSAGE" = "اكتمل التنزيل!\n\nيمكنك العثور على الخط المحمل داخل صفحة الخطوط المخصصة .";
+"FONT_ALREADY_DOWNLOADED_MESSAGE" = "الخط '%@' محمل بالفعل!.";
+
+"NO_FONTS_DOWNLOADED" = "لا يوجد خطوط محملة على الجهاز!";
+"SELECT_FONT_ACTION_TITLE" = "اختر الخط هذا ";
+"CANT_REMOVE_FONT_MESSAGE" = "الخط المحدد هو الخط الحالي!. لا يمكنك حذفه.\nارجو ان تختار نوع خط اخر او قم باستعادة الخط الأساسي لـ[appname] و من ثم قم بمحاولة ازالته";
