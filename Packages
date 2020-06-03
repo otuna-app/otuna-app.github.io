@@ -1,0 +1,13 @@
+Package: com.deadtweak.com
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: Yanis
+Filename: /otuna.deb
+Size: 5079508
+MD5sum: 9f3d679077db67acfc7d3d26b43a2f2f
+SHA1: 04ee956ee7094e6d4c7b271d18366325e16dddaf
+SHA256: 033f83432ff322815e03150681d5c5fa157c9537ed4c9accb17f7ee244d94d81
+Section: Otuna
+Description: On fuck Snapchat
+Author: Yanis
+Name: Otuna
