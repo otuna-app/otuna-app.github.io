@@ -1,6 +1,6 @@
 /* 
   File.strings
-  DeadTweak
+  Otuna
 
   Created by a dead guy on [invalid date].
 
@@ -18,12 +18,12 @@
 
 /* Page title */
 
-"DEADTWEAK_SETTINGS_PAGE_TITLE" = "DeadTweak Settings";
-"DEADTWEAK_SPOOF_PAGE_TITLE" = "DeadTweak Spoofing";
-"DEADTWEAK_ACCOUNT_MANAGER_PAGE_TITLE" = "DeadTweak Account Switcher";
+"Otuna_SETTINGS_PAGE_TITLE" = "Otuna Settings";
+"Otuna_SPOOF_PAGE_TITLE" = "Otuna Spoofing";
+"Otuna_ACCOUNT_MANAGER_PAGE_TITLE" = "Otuna Account Switcher";
 
 
-/* DeadTweak Settings main page - Section title */
+/* Otuna Settings main page - Section title */
 
 "DARKMODE_SECTION_TITLE" = "DARKMODE";
 "SAVE_SECTION_TITLE" = "SAVE SETTINGS";
@@ -39,21 +39,21 @@
 "SUPPORT_SECTION_TITLE" = "SUPPORT";
 "INFO_SECTION_TITLE" = "TECHNICAL INFORMATION";
 
-/* DeadTweak Settings main page - Cell description */
+/* Otuna Settings main page - Cell description */
 
-"SB_ENABLE_TITLE" = "Enable DeadTweak";
-"SB_ENABLE_DESCRIPTION" = "Thank you for using DeadTweak.\nToggle switchs to enable / disable features.";
+"SB_ENABLE_TITLE" = "Enable Otuna";
+"SB_ENABLE_DESCRIPTION" = "Thank you for using Otuna.\nToggle switchs to enable / disable features.";
 
-"KILL_[appname]_BUTTON" = "Kill [appname]";
-"RELOAD_NEWS_BUTTON" = "Reload DeadTweak news";
+"KILL_Snapchat_BUTTON" = "Kill Snapchat";
+"RELOAD_NEWS_BUTTON" = "Reload Otuna news";
 
-"DARKMODE_DESCRIPTION" = "Enable the dark theme for [appname].";
+"DARKMODE_DESCRIPTION" = "Enable the dark theme for Snapchat.";
 
 "SAVE_GALLERY_TITLE" = "Save into Gallery";
 "SAVE_GALLERY_DESCRIPTION" = "Snaps will be saved in your Gallery.";
 
 "SAVE_FOLDER_TITLE" = "Save into Specific Folder";
-"SAVE_FOLDER_DESCRIPTION" = "Snaps will be saved into the '[appname] App/Document/[Random ID]/Your username/Sender Username' folder.\nYou can access it with a File Manager app (like Filza).";
+"SAVE_FOLDER_DESCRIPTION" = "Snaps will be saved into the 'Snapchat App/Document/[Random ID]/Your username/Sender Username' folder.\nYou can access it with a File Manager app (like Filza).";
 
 "ENABLE_ADS_TITLE" = "Enable saving ads";
 "ENABLE_FOLDER_DESCRIPTION" = "It will not show an error when you will try to save an ad.";
@@ -87,43 +87,43 @@
 
 "SPOOF_BUTTON" = "Spoof Settings"; 
 "SWITCH_ACCOUNT_BUTTON" = "Switch Accounts";
-"LANGUAGE_BUTTON" = "Change DeadTweak language";
+"LANGUAGE_BUTTON" = "Change Otuna language";
 
 "RESET_SETTINGS_BUTTON" = "Reset all settings";
-"ERASE_CONTENT_BUTTON" = "Erase all DeadTweak content";
+"ERASE_CONTENT_BUTTON" = "Erase all Otuna content";
 
 "TWITTER_BUTTON" = "Check news on Twitter";
 "DISCORD_BUTTON" = "Join the discord server";
 "WELCOME_SCREEN_BUTTON" = "Re-open the Welcome screen";
-"SB_WEBSITE_BUTTON" = "Go to the DeadTweak website";
+"SB_WEBSITE_BUTTON" = "Go to the Otuna website";
 "LICENSE_MANAGER_BUTTON" = "Access the License Manager";
 "QUESTIONS_FAQ_BUTTON" = "Any questions? Check the FAQ";
 "PROBLEMS_SUPPORT_MAIL_BUTTON" = "Problems, want to add a feature? Send a mail";
 
-"SB_VERSION" = "DeadTweak version";
-"[appname]_VERSION" = "[appname] version";
+"SB_VERSION" = "Otuna version";
+"Snapchat_VERSION" = "Snapchat version";
 
-/* DeadTweak ERRORS and ALERTS */
+/* Otuna ERRORS and ALERTS */
 
 "FILZA_ERROR" = "Filza appear to not be installed";
 
 "ADS_SAVE_TITLE" = "Saving ads is disabled";
-"ADS_SAVE_MESSAGE" = "To avoid unwanted save of ads, it's disabled by default.\nYou can enable it in the DeadTweak settings.";
+"ADS_SAVE_MESSAGE" = "To avoid unwanted save of ads, it's disabled by default.\nYou can enable it in the Otuna settings.";
 
 "WAIT_MESSAGE" = "Please wait for the snap to be fully loaded before saving it.";
 "SAVE_ERROR_1" = "Internal error of iOS.\nAre you connected to internet?\n\nError: 1";
 "SAVE_ERROR_2" = "Internal error of iOS.\nAre you connected to internet?\n\nError: 2";
-"SAVE_ERROR_3" = "The snap couldn't be saved (clicked too fast?).\nTry again or restart [appname]. (No more space on iPhone?)";
+"SAVE_ERROR_3" = "The snap couldn't be saved (clicked too fast?).\nTry again or restart Snapchat. (No more space on iPhone?)";
 "SAVE_ERROR_4" = "The media failed to be saved in the folder of: %@"; /* %@ = username */
 "SAVE_ERROR_5" = "Are you connected to internet?";
 "SAVE_ERROR_6" = "Folder for the username: '%@' could not been created."; /* %@ = username */
 
 "UPLOAD_ERROR_1" = "Failed to open the gallery.";
 
-"ACCOUNT_MANAGER_QUICK_ADD_TITLE" = "DeadTweak\nAccount Manager";
-"ACCOUNT_MANAGER_QUICK_ADD_MESSAGE" = "This account is not in the DeadTweak Account Manager (one-click connect feature).\nWould you like us to add it?";
+"ACCOUNT_MANAGER_QUICK_ADD_TITLE" = "Otuna\nAccount Manager";
+"ACCOUNT_MANAGER_QUICK_ADD_MESSAGE" = "This account is not in the Otuna Account Manager (one-click connect feature).\nWould you like us to add it?";
 
-"QUICK_SWITCH_TITLE" = "DeadTweak Quick Switch";
+"QUICK_SWITCH_TITLE" = "Otuna Quick Switch";
 "QUICK_SWITCH_NO_ACCOUNT" = "There are no accounts registered in the Account Manager. Please add a minimum of one account to use that feature.";
 "QUICK_SWITCH_LOGIN_ONLY_ONE_ACCOUNT" = "Do you want to login to the account: %@?\n\nThis is the only registered account in the account manager."; /* %@ = username */
 "QUICK_SWITCH_SELECT_ACCOUNT" = "\nSelect the account you want to log in to.\n";
@@ -131,15 +131,15 @@
 "ACCOUNT_MANAGER_ACTUAL_ACCOUNT" = "(Actual)";
 
 "RESET_SETTINGS_TITLE" = "Reset Settings";
-"RESET_SETTINGS_MESSAGE" = "All settings of DeadTweak will be reset with default value.\n[appname] will close after resetting.";
+"RESET_SETTINGS_MESSAGE" = "All settings of Otuna will be reset with default value.\nSnapchat will close after resetting.";
 
 "ERASE_ALL_TITLE" = "Erase all content";
-"ERASE_ALL_MESSAGE" = "All content in saved folder with photos and videos (not the gallery) and all DeadTweak settings will be erased.\n[appname] will close after resetting.";
+"ERASE_ALL_MESSAGE" = "All content in saved folder with photos and videos (not the gallery) and all Otuna settings will be erased.\nSnapchat will close after resetting.";
 
 "DARKMODE_TITLE" = "Enable Darkmode";
-"DARKMODE_MESSAGE" = "[appname] will restart to apply your request";
+"DARKMODE_MESSAGE" = "Snapchat will restart to apply your request";
 
-/* DeadTweak Spoof page - Section title */
+/* Otuna Spoof page - Section title */
 
 "SPOOF_DATE_SECTION_TITLE" = "SPOOF DATE / HOUR";
 "SPOOF_WEATHER_SECTION_TITLE" = "SPOOF WEATHER";
@@ -148,7 +148,7 @@
 "SPOOF_VIEWS_SECTION_TITLE" = "SPOOF VIEWS";
 "SPOOF_SCREENSHOTS_SECTION_TITLE" = "SPOOF SCREENSHOTS";
 
-/* DeadTweak Spoof page - Cell description */
+/* Otuna Spoof page - Cell description */
 
 "DATE_TITLE" = "Fake date / hour";
 "DATE_DESCRIPTION" = "The date and hours/minutes of the sticker will be faked.";
@@ -156,7 +156,7 @@
 "DATE" = "Date";
 
 "WEATHER_TITLE" = "Fake weather";
-"WEATHER_DESCRIPTION" = "Degree / Fahrenheit of the sticker will be faked with that value.\n[appname] needs to be killed after changing the value.";
+"WEATHER_DESCRIPTION" = "Degree / Fahrenheit of the sticker will be faked with that value.\nSnapchat needs to be killed after changing the value.";
 
 "VALUE" = "Value";
 
@@ -166,17 +166,17 @@
 "SPEED" = "Speed";
 
 "LOCATION_TITLE" = "Fake Location";
-"LOCATION_DESCRIPTION" = "Fake your location for [appname].\nGet local stickers, change your location for your friends on the map.";
+"LOCATION_DESCRIPTION" = "Fake your location for Snapchat.\nGet local stickers, change your location for your friends on the map.";
 
 "SELECT_LOCATION_BUTTON" = "Select Location";
 "LATITUDE" = "Latitude";
 "LONGITUDE" = "Longitude";
 
 "FAKE_VIEWS_TITLE" = "Fake Views";
-"FAKE_VIEWS_DESCRIPTION" = "Fake views of your Story.\nYou must enable one of the three options to fake your views.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart [appname] for the changes to take effect.";
+"FAKE_VIEWS_DESCRIPTION" = "Fake views of your Story.\nYou must enable one of the three options to fake your views.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart Snapchat for the changes to take effect.";
 
 "FAKE_SCREENSHOTS_TITLE" = "Fake Screenshots";
-"FAKE_SCREENSHOTS_DESCRIPTION" = "Fake screenshots of your Story.\nYou must enable one of the three options to fake your screenshots.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart [appname] for the changes to take effect.";
+"FAKE_SCREENSHOTS_DESCRIPTION" = "Fake screenshots of your Story.\nYou must enable one of the three options to fake your screenshots.\n\nYou need to have a minimum of 1 real view to get it working.\n\nYou may need to restart Snapchat for the changes to take effect.";
 
 "MULTIPLIER_TITLE" = "Multiplier";
 "MULTIPLIER_VIEWS_DESCRIPTION" = "Multiply your views by a value.";
@@ -201,7 +201,7 @@
 "INTERVAL_VIEWS" = "Interval views between stories";
 "INTERVAL_SCREENSHOTS" = "Interval screenshots between stories";
 
-/* DeadTweak Spoof page - Actions Alerts */
+/* Otuna Spoof page - Actions Alerts */
 
 "CHANGE_WEATHER" = "Change the weather value";
 "CHANGE_SPEED" = "Change the speed value";
@@ -225,19 +225,19 @@
 
 "ERROR_SELECT_FAKE_METHOD" = "You can't enable multiple fake methods at the same time.";
 
-/* DeadTweak Account Manager page - Section title */
+/* Otuna Account Manager page - Section title */
 
 "ACCOUNT_MANAGER_SECTION_TITLE" = "ACCOUNT MANAGER";
 "ACCOUNT_LIST_SECTION_TITLE" = "ACCOUNT LIST";
 
-/* DeadTweak Account Manager page - Cell description */
+/* Otuna Account Manager page - Cell description */
 
 "ACCOUNT_MANAGER_INFORMATION_CELL_TITLE" = "Information about the Account Manager";
-"ACCOUNT_MANAGER_INFORMATION_CELL_DESCRIPTION" = "To switch accounts:\n\n1) Add the account to the account manager below\n\n2) Click on the account you want to switch to\n\n3) Wait and enjoy!\n\nWarning: You will be logged out from your current account and connected to the account you chose.\nThe connection can fail if the account is banned/locked or if the password is incorrect. The account switcher does not bypass 2FA authentication, you will need to enter the code manually if [appname] asks for it.";
+"ACCOUNT_MANAGER_INFORMATION_CELL_DESCRIPTION" = "To switch accounts:\n\n1) Add the account to the account manager below\n\n2) Click on the account you want to switch to\n\n3) Wait and enjoy!\n\nWarning: You will be logged out from your current account and connected to the account you chose.\nThe connection can fail if the account is banned/locked or if the password is incorrect. The account switcher does not bypass 2FA authentication, you will need to enter the code manually if Snapchat asks for it.";
 "ADD_ACCOUNT_BUTTON" = "Add Account";
 "CELL_USERNAME" = "Username: %@";
 
-/* DeadTweak Account Manager page - Actions Alerts */
+/* Otuna Account Manager page - Actions Alerts */
 
 "ADD_ACCOUNT_MANAGER_TITLE" = "Add Account";
 "ADD_ACCOUNT_MANAGER_MESSAGE" = "Input username and password";
@@ -257,18 +257,18 @@
 "LICENSE_REVOKE_TITLE" = "License Revoke";
 "LICENSE_ACTIVATE_BUTTON" = "Activate License";
 "LICENSE_ACTIVATION_SUCCESS_TITLE" = "Activation Succeed";
-"LICENSE_ACTIVATION_SUCCESS_MESSAGE" = "Thank you for using DeadTweak !\nYou can now enable SnabBreak in the settings.\n\nIf you want to unlink the license of this device, you can click on the 'Revoke' button";
+"LICENSE_ACTIVATION_SUCCESS_MESSAGE" = "Thank you for using Otuna !\nYou can now enable SnabBreak in the settings.\n\nIf you want to unlink the license of this device, you can click on the 'Revoke' button";
 "LICENSE_ACTIVATION_ERROR_TITLE" = "Activation Error";
 
-"SB_ENABLE_NO_LICENSE_TITLE" = "DeadTweak License";
-"SB_ENABLE_NO_LICENSE_MESSAGE" = "You must activate DeadTweak with a license to enable it."; 
+"SB_ENABLE_NO_LICENSE_TITLE" = "Otuna License";
+"SB_ENABLE_NO_LICENSE_MESSAGE" = "You must activate Otuna with a license to enable it."; 
 
 "LICENSE_PLACEHOLDER" = "Enter here your License key";
 
 "UNKOWN_ERROR" = "An error occurred\nPlease try again.\nIf the problem persists, contact the support.";
 "LICENSE_ERROR_INTERNET" = "No internet connection\nPlease connect to a network.\nIf the problem persists contact the support.";
 "LICENSE_ALREADY_ACTIVATED" = "You already have activated this license.\nTo use it, please revoke it in the License Manager and re-activate it here.";
-"LICENSE_ALREADY_IN_USE" = "This license is already in use.\n\nIf you want to re-use this license key you need to:\n\n- Go to the License Manager\n- Login to your DeadTweak account\n- Click on 'Revoke this device'\n- Re-activate your license here in the DeadTweak settings.";
+"LICENSE_ALREADY_IN_USE" = "This license is already in use.\n\nIf you want to re-use this license key you need to:\n\n- Go to the License Manager\n- Login to your Otuna account\n- Click on 'Revoke this device'\n- Re-activate your license here in the Otuna settings.";
 "BAD_LICENSE_KEY" = "Bad license key";
 "UNKOWN_ERROR_2" = "An error occurred when validating the license.\nPlease revoke the license in the License Manager and retry.";
 
@@ -276,69 +276,69 @@
 "REVOKE_ERROR_2" = "No internet connection.\nThe license has been removed from the device but the license might not be unlinked in the Licence Manager.";
 "REVOKE_SUCCESS" = "The license has been successfully unlinked from this device.\n\nYou can now re-link this license at any time on the device of your choice.";
 
-"CHECK_FAILED_MESSAGE_1" = "A verification of your license cannot be made.\nConnection with DeadTweak license server failed.\n\nCheck your internet connection.\n\nDeadTweak has been disabled. You can re-enable it in the settings at any times or click on the button below (a new attempt will be made).";
-"CHECK_FAILED_ACTION_1" = "Re-enable DeadTweak";
+"CHECK_FAILED_MESSAGE_1" = "A verification of your license cannot be made.\nConnection with Otuna license server failed.\n\nCheck your internet connection.\n\nOtuna has been disabled. You can re-enable it in the settings at any times or click on the button below (a new attempt will be made).";
+"CHECK_FAILED_ACTION_1" = "Re-enable Otuna";
 
-"CHECK_FAILED_MESSAGE_2" = "Your license is not valid. It might been revoked in the License Manager.\n\nDeadTweak is now disabled.\n\nIf it is an error please contact the support.";
-"CHECK_FAILED_ACTION_2" = "Restart [appname]";
+"CHECK_FAILED_MESSAGE_2" = "Your license is not valid. It might been revoked in the License Manager.\n\nOtuna is now disabled.\n\nIf it is an error please contact the support.";
+"CHECK_FAILED_ACTION_2" = "Restart Snapchat";
 
-"CHECK_FAILED_MESSAGE_3" = "A verification of your license cannot be made.\nA strange behaviour happened.\nIf the problem persists, contact the support.\n\nDeadTweak has been disabled. You can re-enable it in the settings at any times.";
+"CHECK_FAILED_MESSAGE_3" = "A verification of your license cannot be made.\nA strange behaviour happened.\nIf the problem persists, contact the support.\n\nOtuna has been disabled. You can re-enable it in the settings at any times.";
 
-"CHECK_FAILED_MESSAGE_4" = "Your license is not valid. It might have been revoked in the License Manager.\nDeadTweak is now disabled.\n\nIf it is an error please contact the support.";
+"CHECK_FAILED_MESSAGE_4" = "Your license is not valid. It might have been revoked in the License Manager.\nOtuna is now disabled.\n\nIf it is an error please contact the support.";
 
 "OPEN_CYDIA" = "Open Cydia";
 "OPEN_FAQ" = "Open the FAQ page";
 "OPEN_LICENSE_MANAGER" = "Go to the License Manager";
 
-/* DeadTweak News - Version control */
+/* Otuna News - Version control */
 
-"SB_NEWS" = "DeadTweak News";
+"SB_NEWS" = "Otuna News";
 
-/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version */
-"NEW_SB_UPDATE_LATEST_SC" = "A new DeadTweak update (%@) is available for this version of [appname] ! (the current and latest [appname] version %@)\nDownload it in your package manager now.";
+/* (1) %@ = new Otuna update version  |   (2) %@ = latest Snapchat version */
+"NEW_SB_UPDATE_LATEST_SC" = "A new Otuna update (%@) is available for this version of Snapchat ! (the current and latest Snapchat version %@)\nDownload it in your package manager now.";
 
-/* (1) %@ = new deadtweak update version  |   (2) %@ = compatible [appname] version */
-"NEW_SB_UPDATE_NOT_LATEST_SC_BUT_WORK" = "A new DeadTweak update (%@) is available for this version of [appname] (%@) ! Be careful your [appname] app is not on the latest version and this DeadTweak update doesn't work on it, so DO NOT UPDATE [appname], update only DeadTweak.\n\nDownload it in your package manager now.";
+/* (1) %@ = new Otuna update version  |   (2) %@ = compatible Snapchat version */
+"NEW_SB_UPDATE_NOT_LATEST_SC_BUT_WORK" = "A new Otuna update (%@) is available for this version of Snapchat (%@) ! Be careful your Snapchat app is not on the latest version and this Otuna update doesn't work on it, so DO NOT UPDATE Snapchat, update only Otuna.\n\nDownload it in your package manager now.";
 
-/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version */
-"NEW_SB_UPDATE_LATEST_SC_WORK" = "A new DeadTweak update (%@) is available and works with the latest version of [appname] (%@) !\nYou can update [appname] to the latest version.\n\nWARNING: UPDATE DEADTWEAK BEFORE [appname] !\n\nDownload it in your package manager now.";
+/* (1) %@ = new Otuna update version  |   (2) %@ = latest Snapchat version */
+"NEW_SB_UPDATE_LATEST_SC_WORK" = "A new Otuna update (%@) is available and works with the latest version of Snapchat (%@) !\nYou can update Snapchat to the latest version.\n\nWARNING: UPDATE Otuna BEFORE Snapchat !\n\nDownload it in your package manager now.";
 
-/* (1) %@ = new deadtweak update version  |   (2) %@ = latest [appname] version   |  (3) %@ = actual [appname] version   |   (4) %@ = compatible [appname] version */
-"NEW_SB_UPDATE_NOT_LATEST_SC" = "A new DeadTweak update (%@) is available ! This update does not work with the latest [appname] version (%@) but can be used with a newer version than the actual version installed (Your version: %@ - Work with: %@).\n\nYou can update [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the DeadTweak update in your package manager.";
+/* (1) %@ = new Otuna update version  |   (2) %@ = latest Snapchat version   |  (3) %@ = actual Snapchat version   |   (4) %@ = compatible Snapchat version */
+"NEW_SB_UPDATE_NOT_LATEST_SC" = "A new Otuna update (%@) is available ! This update does not work with the latest Snapchat version (%@) but can be used with a newer version than the actual version installed (Your version: %@ - Work with: %@).\n\nYou can update Snapchat to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the Otuna update in your package manager.";
 
-/* (1) %@ = new deadtweak update version  |   (2) %@ = actual [appname] version   |  (3) %@ = compatible [appname] version   |   (4) %@ = compatible [appname] version */
-"NEW_SB_UPDATE_NOT_WORK_ACTUAL_SC" = "A new DeadTweak update (%@) is available ! This update might not work (not tested) with the [appname] version that you are running (%@).\nThe update has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please update DeadTweak and downgrade [appname] to the version (%@). You can downgrade [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the DeadTweak update in your package manager.";
+/* (1) %@ = new Otuna update version  |   (2) %@ = actual Snapchat version   |  (3) %@ = compatible Snapchat version   |   (4) %@ = compatible Snapchat version */
+"NEW_SB_UPDATE_NOT_WORK_ACTUAL_SC" = "A new Otuna update (%@) is available ! This update might not work (not tested) with the Snapchat version that you are running (%@).\nThe update has been tested with the Snapchat version: %@.\nUsing Otuna on a version that is not officially supported is risky.\nFor your safety please update Otuna and downgrade Snapchat to the version (%@). You can downgrade Snapchat to a specific version using AppStore++. (You can check the FAQ to know how to use it)\n\nDownload the Otuna update in your package manager.";
 
-"USING_LATEST_SB_AND_LATEST_SC" = "Thank for using DeadTweak.\nYou have the latest version of DeadTweak and the latest version of [appname].\nYou're fine !";
+"USING_LATEST_SB_AND_LATEST_SC" = "Thank for using Otuna.\nYou have the latest version of Otuna and the latest version of Snapchat.\nYou're fine !";
 
-/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = compatible [appname] version */
-"USING_INCOMPATIBLE_SC_VERSION" = "The version of [appname] that you are running (%@) might not work (not tested) with DeadTweak.\nThis version of DeadTweak has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please downgrade [appname] to the version %@. You can downgrade [appname] to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
+/* (1) %@ = actual Snapchat version  |   (2) %@ = compatible Snapchat version   |  (3) %@ = compatible Snapchat version */
+"USING_INCOMPATIBLE_SC_VERSION" = "The version of Snapchat that you are running (%@) might not work (not tested) with Otuna.\nThis version of Otuna has been tested with the Snapchat version: %@.\nUsing Otuna on a version that is not officially supported is risky.\nFor your safety please downgrade Snapchat to the version %@. You can downgrade Snapchat to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
 
-/* (1) %@ = latest [appname] version */
-"NEW_SC_UPDATE_WORK_SB" = "A new [appname] update (%@) is available and works with DeadTweak !\nYou can safely update [appname] to the latest version.";
+/* (1) %@ = latest Snapchat version */
+"NEW_SC_UPDATE_WORK_SB" = "A new Snapchat update (%@) is available and works with Otuna !\nYou can safely update Snapchat to the latest version.";
 
-/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = latest [appname] version   |   (4) %@ = compatible [appname] version */
-"SC_NOT_LATEST_WORK_SB" = "The version of [appname] that you are running (%@) is supported but this is not the latest version supported by DeadTweak (%@).\n\nWARNING: That doesn't mean that you must update.\nWARNING 2: Do not update [appname] to the latest version (%@). Only update it to the version: %@\n\nYou can update [appname] to a specific version using AppStore++. (You can check the FAQ to know how to use it)";
+/* (1) %@ = actual Snapchat version  |   (2) %@ = compatible Snapchat version   |  (3) %@ = latest Snapchat version   |   (4) %@ = compatible Snapchat version */
+"SC_NOT_LATEST_WORK_SB" = "The version of Snapchat that you are running (%@) is supported but this is not the latest version supported by Otuna (%@).\n\nWARNING: That doesn't mean that you must update.\nWARNING 2: Do not update Snapchat to the latest version (%@). Only update it to the version: %@\n\nYou can update Snapchat to a specific version using AppStore++. (You can check the FAQ to know how to use it)";
 
-/* (1) %@ = latest [appname] version */
-"NEW_SC_SB_NOT_WORK" = "A new version of [appname] (%@) is available but DeadTweak doesn't support it yet.\nPlease DO NOT update [appname].";
+/* (1) %@ = latest Snapchat version */
+"NEW_SC_SB_NOT_WORK" = "A new version of Snapchat (%@) is available but Otuna doesn't support it yet.\nPlease DO NOT update Snapchat.";
 
-/* (1) %@ = actual [appname] version  |   (2) %@ = compatible [appname] version   |  (3) %@ = compatible [appname] version */
-"SB_NOT_WORK_ACTUAL_SC" = "The version of [appname] that you are running (%@) might not work (not tested) with DeadTweak.\nThis version of DeadTweak has been tested with the [appname] version: %@.\nUsing DeadTweak on a version that is not officially supported is risky.\nFor your safety please downgrade [appname] to the version %@. You can downgrade [appname] to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
+/* (1) %@ = actual Snapchat version  |   (2) %@ = compatible Snapchat version   |  (3) %@ = compatible Snapchat version */
+"SB_NOT_WORK_ACTUAL_SC" = "The version of Snapchat that you are running (%@) might not work (not tested) with Otuna.\nThis version of Otuna has been tested with the Snapchat version: %@.\nUsing Otuna on a version that is not officially supported is risky.\nFor your safety please downgrade Snapchat to the version %@. You can downgrade Snapchat to a specific version using AppStore++.\n(You can check the FAQ to know how to use it)";
 
-"NON_RELEASED_BETA" = "You are on a non released version of DeadTweak. Be careful.";
+"NON_RELEASED_BETA" = "You are on a non released version of Otuna. Be careful.";
 
 /* Other */
 
-"DISCORD_ALERT_TITLE" = "DeadTweak Discord";
-"DISCORD_ALERT_MESSAGE" = "Hey ! Are you in our Discord server?\n\nGet all news about DeadTweak (updates, info, ...), get support and chat with other DeadTweak users.";
+"DISCORD_ALERT_TITLE" = "Otuna Discord";
+"DISCORD_ALERT_MESSAGE" = "Hey ! Are you in our Discord server?\n\nGet all news about Otuna (updates, info, ...), get support and chat with other Otuna users.";
 "DISCORD_ACTION_1" = "Join the server";
 "DISCORD_ACTION_2" = "No thanks!";
 "DISCORD_ACTION_3" = "Remind me later";
 
 /* Language */
 
-"LANGUAGE_HEADER_TITLE" = "DeadTweak Language";
+"LANGUAGE_HEADER_TITLE" = "Otuna Language";
 "LANGUAGE_SECTION_TITLE" = "LANGUAGE";
 "LANGUAGE_LIST_SECTION_TITLE" = "LANG LIST";
 
@@ -347,8 +347,8 @@
 "LANGUAGE_ITEM_2" = "French";
 "LANGUAGE_ITEM_3" = "Arabic";
 "LANGUAGE_ITEM_4" = "Spanish";
-"CHANGE_LANGUAGE_TITLE" = "Change DeadTweak language";
-"CHANGE_LANGUAGE_MESSAGE" = "Do you want to change the language to: %@?\n[appname] will restart to apply the new language.";
+"CHANGE_LANGUAGE_TITLE" = "Change Otuna language";
+"CHANGE_LANGUAGE_MESSAGE" = "Do you want to change the language to: %@?\nSnapchat will restart to apply the new language.";
 
 /* Fake usernames */
 
@@ -379,9 +379,9 @@
 
 "HIDE_PAGE_TITLE" = "Hide features";
 
-"HIDE_SB_FEATURES_SECTION_TITLE" = "HIDE DEADTWEAK FEATURES";
+"HIDE_SB_FEATURES_SECTION_TITLE" = "HIDE Otuna FEATURES";
 "HIDE_BITMOJI_SECTION_TITLE" = "DISABLE BITMOJI";
-"HIDE_SC_FEATURE_SECTION_TITLE" = "HIDE [appname] SECTIONS";
+"HIDE_SC_FEATURE_SECTION_TITLE" = "HIDE Snapchat SECTIONS";
 
 "HIDE_SAVE_TITLE" = "Hide 'Save' Button";
 "HIDE_SAVE_DESCRIPTION" = "Hide the 'Save Button' from the snap view.";
@@ -396,29 +396,29 @@
 "HIDE_QUICK_SWITCH_LOGIN_DESCRIPTION" = "The Quick Switch button that appear in the login screen, will be hidden.";
 
 "DISABLE_BITMOJI_CELL_TITLE" = "Disable all Bitmoji";
-"DISABLE_BITMOJI_CELL_DESCRIPTION" = "No bitmoji will be shown in the application.\n[appname] needs to be restarted.";
+"DISABLE_BITMOJI_CELL_DESCRIPTION" = "No bitmoji will be shown in the application.\nSnapchat needs to be restarted.";
 
 "HIDE_FOR_YOU_CELL_TITLE" = "Hide 'For You'";
-"HIDE_FOR_YOU_CELL_DESCRIPTION" = "The 'For You' section in the Story page will be hidden.\n[appname] needs to be restarted.";
+"HIDE_FOR_YOU_CELL_DESCRIPTION" = "The 'For You' section in the Story page will be hidden.\nSnapchat needs to be restarted.";
 
 "HIDE_FRIEND_PROFILE_MAP_CELL_TITLE" = "Hide the Map in the friend profile";
-"HIDE_FRIEND_PROFILE_MAP_CELL_DESCRIPTION" = "The Map section in the friend profile will be hidden.\n[appname] needs to be restarted.";
+"HIDE_FRIEND_PROFILE_MAP_CELL_DESCRIPTION" = "The Map section in the friend profile will be hidden.\nSnapchat needs to be restarted.";
 
 "HIDE_GAME_BUTTON_TITLE" = "Disable the Game button";
 "HIDE_GAME_BUTTON_DESCRIPTION" = "The Game button that appear in the Chat will be hidden.";
 
 "CHANGE_UPLOAD_BUTTON_TITLE" = "Old Upload Button";
-"CHANGE_UPLOAD_BUTTON_DESCRIPTION" = "Change the location of the Upload Button (like the old DeadTweak version) in the new UI of [appname].\n[appname] needs to be restarted.";
+"CHANGE_UPLOAD_BUTTON_DESCRIPTION" = "Change the location of the Upload Button (like the old Otuna version) in the new UI of Snapchat.\nSnapchat needs to be restarted.";
 
-/* DeadTweak Groups */
+/* Otuna Groups */
 
-"DEADTWEAK_GROUPS_PAGE_TITLE" = "DeadTweak Groups";
+"Otuna_GROUPS_PAGE_TITLE" = "Otuna Groups";
 
-"ENABLE_GROUPS_SECTION_TITLE" = "DEADTWEAK GROUPS";
+"ENABLE_GROUPS_SECTION_TITLE" = "Otuna GROUPS";
 "HIDE_PRESETS_SECTION_TITLE" = "RECIPIENTS PRESETS";
 "RECIPIENTS_SECTION_TITLE" = "RECIPIENTS";
 
-"ENABLE_GROUPS_TITLE" = "Enable DeadTweak Groups";
+"ENABLE_GROUPS_TITLE" = "Enable Otuna Groups";
 "ENABLE_GROUPS_DESCRIPTION" = "A new section will appear when selecting friends to send your snap.";
 
 "HIDE_FRIENDS_PRESET_TITLE" = "Enable 'Select all Friends' preset";
@@ -433,37 +433,37 @@
 "UNLIMITED_RECIPIENTS_TITLE" = "Unlimited recipients";
 "UNLIMITED_RECIPIENTS_DESCRIPTION" = "You can choose unlimited recipients when sending a Snap.\n\nCAUTION: Spamming a large number of people within a short period of time can result in your account being banned.";
 
-"DEADTWEAK_GROUPS_NEW_GROUP_PAGE_TITLE" = "New DeadTweak Group";
+"Otuna_GROUPS_NEW_GROUP_PAGE_TITLE" = "New Otuna Group";
 
-"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_TITLE" = "CREATE A NEW DEADTWEAK GROUP";
-"DEADTWEAK_GROUPS_NEW_GROUP_SECTION_DESCRIPTION" = "Select users, stories and groups. Press 'Send' to finish the creation.";
+"Otuna_GROUPS_NEW_GROUP_SECTION_TITLE" = "CREATE A NEW Otuna GROUP";
+"Otuna_GROUPS_NEW_GROUP_SECTION_DESCRIPTION" = "Select users, stories and groups. Press 'Send' to finish the creation.";
 
-"DEADTWEAK_GROUPS_SELECT_SECTION_TITLE" = "DEADTWEAK GROUPS";
-"DEADTWEAK_GROUPS_SELECT_SECTION_DESCRIPTION" = "Select automatically a set of users.";
+"Otuna_GROUPS_SELECT_SECTION_TITLE" = "Otuna GROUPS";
+"Otuna_GROUPS_SELECT_SECTION_DESCRIPTION" = "Select automatically a set of users.";
 
-"DEADTWEAK_GROUPS_SELECT_CREATE" = "Create a new DeadTweak Group";
+"Otuna_GROUPS_SELECT_CREATE" = "Create a new Otuna Group";
 
-"DEADTWEAK_GROUPS_PRESETS_SECTION_TITLE" = "DEADTWEAK PRESETS";
+"Otuna_GROUPS_PRESETS_SECTION_TITLE" = "Otuna PRESETS";
 
-"DEADTWEAK_GROUPS_FRIENDS_PRESET" = "Select/Unselect All Friends";
-"DEADTWEAK_GROUPS_GROUPS_PRESET" = "Select/Unselect All Groups";
-"DEADTWEAK_GROUPS_STORIES_PRESET" = "Select/Unselect All Stories";
+"Otuna_GROUPS_FRIENDS_PRESET" = "Select/Unselect All Friends";
+"Otuna_GROUPS_GROUPS_PRESET" = "Select/Unselect All Groups";
+"Otuna_GROUPS_STORIES_PRESET" = "Select/Unselect All Stories";
 
-"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_TITLE" = "New DeadTweak Group";
-"DEADTWEAK_GROUPS_CREATE_NAME_ALERT_MESSAGE" = "Please define the name of this new group";
-"DEADTWEAK_GROUPS_CREATE_NAME_PLACEHOLDER" = "Group name";
+"Otuna_GROUPS_CREATE_NAME_ALERT_TITLE" = "New Otuna Group";
+"Otuna_GROUPS_CREATE_NAME_ALERT_MESSAGE" = "Please define the name of this new group";
+"Otuna_GROUPS_CREATE_NAME_PLACEHOLDER" = "Group name";
 
-"DEADTWEAK_GROUPS_SELECT_DELETE_ALERT_MESSAGE" = "Do you want to delete the group:\n%@";
+"Otuna_GROUPS_SELECT_DELETE_ALERT_MESSAGE" = "Do you want to delete the group:\n%@";
 
-"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE" = "DeadTweak group selected:\n%@\n\nWhat do you want to do?";
-"DEADTWEAK_GROUPS_SELECTED_ACTION_SHEET_MESSAGE_EDIT" = "Edit";
+"Otuna_GROUPS_SELECTED_ACTION_SHEET_MESSAGE" = "Otuna group selected:\n%@\n\nWhat do you want to do?";
+"Otuna_GROUPS_SELECTED_ACTION_SHEET_MESSAGE_EDIT" = "Edit";
 
-"DEADTWEAK_GROUPS_ALERT_MANY_FRIENDS_MESSAGE" = "A total of %lu friends will be selected/unselected.\nA high number can freeze your device for a short time or make [appname] crash.\n\nDo you want to continue?";
+"Otuna_GROUPS_ALERT_MANY_FRIENDS_MESSAGE" = "A total of %lu friends will be selected/unselected.\nA high number can freeze your device for a short time or make Snapchat crash.\n\nDo you want to continue?";
 
 "SELECT_BLOCKED_FRIENDS_TITLE" = "Select blocked friends";
 "SELECT_BLOCKER_FRIENDS_MESSAGE" = "By default when you are selecting all your friends with the 'Select all friends' preset, friends that you have blocked will not be selected.";
 
-/* DeadTweak Chat settings */
+/* Otuna Chat settings */
 
 "CHAT_SETTINGS_PAGE_TITLE" = "Chat settings";
 
@@ -479,7 +479,7 @@
 "BASIC_AUTO_SAVE_DESCRIPTION" = "All new messages received or sent (after activating this feature) will be automatically saved.";
 
 "FORCE_SAVE_TITLE" = "Force Save";
-"FORCE_SAVE_DESCRIPTION" = "All messages loaded in a conversation (from other [appname]ters or sent by you) will be automatically saved.\n\nIf you want to save older messages in the conversation, you need to load them.";
+"FORCE_SAVE_DESCRIPTION" = "All messages loaded in a conversation (from other Snapchatters or sent by you) will be automatically saved.\n\nIf you want to save older messages in the conversation, you need to load them.";
 
 "AUTO_SAVE_ADVANCED_TITLE" = "Advanced Auto Save";
 "AUTO_SAVE_ADVANCED_DESCRIPTION" = "All new messages sent and received in any conversations will be automatically saved.\n\nCAUTION: Messages that you will receive in a conversation will be instantly saved even if you don't open the conversation. (The conversation will stay unread but the sender will see that you saved their messages)";
@@ -490,23 +490,23 @@
 "SELECT_UNLIMITED_MEDIAS_DESCRIPTION" = "You will be able to select an unlimited amount of medias from your gallery and send them as one message in the chat.";
 
 "UNLIMITED_PINS_TITLE" = "Unlimited Pins";
-"UNLIMITED_PINS_DESCRIPTION" = "You will be able to Pin an unlimited number of conversations in the conversation list page.\n\n[appname] needs to be restarted.";
+"UNLIMITED_PINS_DESCRIPTION" = "You will be able to Pin an unlimited number of conversations in the conversation list page.\n\nSnapchat needs to be restarted.";
 
 "KEEP_DELETED_TITLE" = "Keep deleted messages";
-"KEEP_DELETED_DESCRIPTION" = "Messages that other [appname]ters will delete will not be removed from the conversation.\n\nNOTICE: If the message isn't saved in the conversation, it will disappear like a normal message if you close the conversation.\n\nNOTICE 2: If you want to know what messages has been deleted, you need to enable the feature below called 'Change color of deleted messages'\n\nWARNING: If a message is sent and removed in the conversation by other [appname]ters and you never loaded it first, it will not block its deletion.\n\nWARNING: If you open [appname] without DeadTweak installed, all messages that have not been deleted, will be deleted.\nBe careful to not open [appname] on non-jailbreaked mode\n\nNOTICE 3: This feature will be still enabled if you disable DeadTweak or if there is any problems in the license system.";
+"KEEP_DELETED_DESCRIPTION" = "Messages that other Snapchatters will delete will not be removed from the conversation.\n\nNOTICE: If the message isn't saved in the conversation, it will disappear like a normal message if you close the conversation.\n\nNOTICE 2: If you want to know what messages has been deleted, you need to enable the feature below called 'Change color of deleted messages'\n\nWARNING: If a message is sent and removed in the conversation by other Snapchatters and you never loaded it first, it will not block its deletion.\n\nWARNING: If you open Snapchat without Otuna installed, all messages that have not been deleted, will be deleted.\nBe careful to not open Snapchat on non-jailbreaked mode\n\nNOTICE 3: This feature will be still enabled if you disable Otuna or if there is any problems in the license system.";
 
 "CHANGE_COLOR_TITLE" = "Change color of deleted messages";
-"CHANGE_COLOR_DESCRIPTION" = "The color of deleted messages by others [appname]ters will change to the selected color below.";
+"CHANGE_COLOR_DESCRIPTION" = "The color of deleted messages by others Snapchatters will change to the selected color below.";
 
 "SELECT_COLOR_TITLE" = "Deleted messages color";
 "SELECT_COLOR_VALUE" = "Selected Color";
 
 "KEEP_ALL_TITLE" = "Keep all messages in the chat";
-"KEEP_ALL_DESCRIPTION" = "All message sent and received in a conversation will never be deleted.\nExample: unsaved or expired messages will not be deleted after closing the conversation page.\n\nNOTICE: This only works for you. This doesn't affect the conversation for other [appname]ters (their unsaved messages will still disappear).\n\nNOTICE 2: After the official deletion of unsaved messages (closing the conversation page), all messages will only exist in your device. You can save them but the other [appname]ter will not see them. If you delete your [appname] app or data, all messages will be definitely removed.\n\nWARNING: If you open [appname] without DeadTweak installed (or in non-jailbreaked mode), all messages that have not been deleted, will be deleted.\n\nNOTICE 3: This feature will be still enabled if you disable DeadTweak or if there is any problems in the license system.";
+"KEEP_ALL_DESCRIPTION" = "All message sent and received in a conversation will never be deleted.\nExample: unsaved or expired messages will not be deleted after closing the conversation page.\n\nNOTICE: This only works for you. This doesn't affect the conversation for other Snapchatters (their unsaved messages will still disappear).\n\nNOTICE 2: After the official deletion of unsaved messages (closing the conversation page), all messages will only exist in your device. You can save them but the other Snapchatter will not see them. If you delete your Snapchat app or data, all messages will be definitely removed.\n\nWARNING: If you open Snapchat without Otuna installed (or in non-jailbreaked mode), all messages that have not been deleted, will be deleted.\n\nNOTICE 3: This feature will be still enabled if you disable Otuna or if there is any problems in the license system.";
 
 "CACHE_SECTION_TITLE" = "CACHE FILES";
-"CACHE_FILE_INFO_AUTOSAVE" = "The feature 'Basic Auto save' save all messages id to cache file to automatically save theses messages when you open the conversation. With time the file gets bigger if you have many unread messages. If you see any lags in [appname] when loading a conversation, please clear the cache by clicking on the button below (all actual received and unread messages will no longer be saved automatically).";
-"CACHE_FILE_INFO_DELETEDMESSAGES" = "The feature 'Keep deleted messages' save all deleted messages id to cache file to know which messages has been deleted and change the color of this message. With time the file gets bigger if you have many deleted messages. If you have any lags in [appname] when loading a conversation, please clear the cache by clicking on the button below. This will remove all deleted messages id (you will no longer know which messages have been deleted).";
+"CACHE_FILE_INFO_AUTOSAVE" = "The feature 'Basic Auto save' save all messages id to cache file to automatically save theses messages when you open the conversation. With time the file gets bigger if you have many unread messages. If you see any lags in Snapchat when loading a conversation, please clear the cache by clicking on the button below (all actual received and unread messages will no longer be saved automatically).";
+"CACHE_FILE_INFO_DELETEDMESSAGES" = "The feature 'Keep deleted messages' save all deleted messages id to cache file to know which messages has been deleted and change the color of this message. With time the file gets bigger if you have many deleted messages. If you have any lags in Snapchat when loading a conversation, please clear the cache by clicking on the button below. This will remove all deleted messages id (you will no longer know which messages have been deleted).";
 "CACHE_FILE_CURRENTDATA" = "\n\nCurrent data: %lld Messages id saved in a total of %lld conversations.";
 "CACHE_FILE_LOADING" = "\n\nCurrent data: Loading...";
 
@@ -527,10 +527,10 @@
 "ALERT_SPOOF_FRIENDS_VALUE_MESSAGE" = "Select the fake friends request value.";
 
 "SHOW_REAL_FRIENDS_CELL_TITLE" = "Show real Friends notifications";
-"SHOW_REAL_FRIENDS_CELL_DESCRIPTION" = "The text inside the yellow bubble will now show the real number of friends notifications.\n[appname], by default, limits this number to 99.\n\nYou need to restart [appname] for the changes to take effect.";
+"SHOW_REAL_FRIENDS_CELL_DESCRIPTION" = "The text inside the yellow bubble will now show the real number of friends notifications.\nSnapchat, by default, limits this number to 99.\n\nYou need to restart Snapchat for the changes to take effect.";
 
 "SPOOF_FRIENDS_NOTIFICATION_CELL_TITLE" = "Spoof Friends notifications number";
-"SPOOF_FRIENDS_NOTIFICATION_CELL_DESCRIPTION" = "Change the value of the text inside the yellow bubble that appear when you get friends notifications.\n\nYou need to restart [appname] for the changes to take effect.";
+"SPOOF_FRIENDS_NOTIFICATION_CELL_DESCRIPTION" = "Change the value of the text inside the yellow bubble that appear when you get friends notifications.\n\nYou need to restart Snapchat for the changes to take effect.";
 
 /* Upload Settings page */
 
@@ -552,14 +552,14 @@
 "THIRD_PARTY_SECTION_TITLE" = "THIRD PARTY APP"; 
 
 "NEW_UPLOAD_SYSTEM_TITLE" = "New Upload System";
-"NEW_UPLOAD_SYSTEM_DESCRIPTION" = "Use the new upload system.\nThe new upload system mimics perfectly the original [appname] upload system.\nYou can use it if you have some problems with the original DeadTweak upload system.\n\nWarning: The feature 'Auto Scale' will not work with this new upload system.\n\nWarning 2: Large videos file can make [appname] unresponsive for few seconds (and can crash for the first time, but you can retry and it will works).";
+"NEW_UPLOAD_SYSTEM_DESCRIPTION" = "Use the new upload system.\nThe new upload system mimics perfectly the original Snapchat upload system.\nYou can use it if you have some problems with the original Otuna upload system.\n\nWarning: The feature 'Auto Scale' will not work with this new upload system.\n\nWarning 2: Large videos file can make Snapchat unresponsive for few seconds (and can crash for the first time, but you can retry and it will works).";
 
 "THIRD_PARTY_APPNAME_TITLE" = "Remove Third Party App Name";
-"THIRD_PARTY_APPNAME_DESCRIPTION" = "Remove the Third Party Application name in the Snap metadata from Third Party application.\n\nExample: If an application have a button to share a media or include a custom sticker via [appname], the snap send to your story will not have the text '2m ago from AppName'.";
+"THIRD_PARTY_APPNAME_DESCRIPTION" = "Remove the Third Party Application name in the Snap metadata from Third Party application.\n\nExample: If an application have a button to share a media or include a custom sticker via Snapchat, the snap send to your story will not have the text '2m ago from AppName'.";
 
 "UPLOAD_VIA_GALLERY_SECTION_TITLE" = "GALLERY UPLOAD";
 "UPLOAD_VIA_GALLERY_TITLE" = "Original Upload from Gallery";
-"UPLOAD_VIA_GALLERY_DESCRIPTION" = "Remove the label 'from Camera Roll' when uploading medias from the [appname] gallery to your Story.\n\nWARNING: This feature only works if you Edit the media before sending it.";
+"UPLOAD_VIA_GALLERY_DESCRIPTION" = "Remove the label 'from Camera Roll' when uploading medias from the Snapchat gallery to your Story.\n\nWARNING: This feature only works if you Edit the media before sending it.";
 
 "UNLIMITED_CAPTION_LINE_SECTION_TITLE" = "CAPTIONS";
 "UNLIMITED_CAPTION_LINE_TITLE" = "Unlimited caption lines";
@@ -599,7 +599,7 @@
 "SCROLL_VERTICAL" = "Vertical";
 
 "ENABLE_BARMOJI_TITLE" = "Enable Barmoji";
-"ENABLE_BARMOJI_DESCRIPTION" = "Enable the tweak Barmoji to be loaded in [appname].\n\nBarmoji is included in DeadTweak. You don't need to have Barmoji installed on your device.\n\n[appname] needs to be restarted for apply settings.";
+"ENABLE_BARMOJI_DESCRIPTION" = "Enable the tweak Barmoji to be loaded in Snapchat.\n\nBarmoji is included in Otuna. You don't need to have Barmoji installed on your device.\n\nSnapchat needs to be restarted for apply settings.";
 
 "EMOJI_SOURCE_TITLE" = "Emoji Source";
 "EMOJI_CUSTOM_TITLE" = "Custom Emojis";
@@ -620,22 +620,22 @@
 
 /* Import & Export */
 
-"EXPORT_DEADTWEAK_DATA" = "Export DeadTweak data";
-"IMPORT_DEADTWEAK_DATA" = "Import DeadTweak data";
+"EXPORT_Otuna_DATA" = "Export Otuna data";
+"IMPORT_Otuna_DATA" = "Import Otuna data";
 
-"IMPORT_ALERT_MESSAGE" = "All your current DeadTweak settings will be erased and replaced by settings included in the backup file.\n\nYour current license activation will not be affected.\n\nYour current 'specific folder' will be merged with the backup one.";
+"IMPORT_ALERT_MESSAGE" = "All your current Otuna settings will be erased and replaced by settings included in the backup file.\n\nYour current license activation will not be affected.\n\nYour current 'specific folder' will be merged with the backup one.";
 "IMPORT_ALERT_ACTION" = "Select the backup file";
 
 "IMPORT_PROGRESS_START" = "\nLoading Backup ...";
 "IMPORT_PROGRESS_UNZIP" = "\nUnzipping the backup file ... %i%%";
 "IMPORT_PROGRESS_LOAD_CONFIG" = "\nLoading config file ...";
 "IMPORT_PROGRESS_MERGE" = "\nMerging medias from the Specific folder ...\nThis can take some times if there is a lot of medias.";
-"IMPORT_PROGRESS_MERGE" = "\nLoadings DeadTweak settings files ...";
+"IMPORT_PROGRESS_MERGE" = "\nLoadings Otuna settings files ...";
 
-"IMPORT_SUCCESS" = "Successfully imported the backup!\n\nDeadTweak will now restart to apply all changes.";
+"IMPORT_SUCCESS" = "Successfully imported the backup!\n\nOtuna will now restart to apply all changes.";
 
-"IMPORT_ERROR_1" = "An error happened.\nThe file you selected isn't a valid DeadTweak backup file.";
-"IMPORT_ERROR_2" = "An error happened.\nFailed to Unzip the DeadTweak backup.";
+"IMPORT_ERROR_1" = "An error happened.\nThe file you selected isn't a valid Otuna backup file.";
+"IMPORT_ERROR_2" = "An error happened.\nFailed to Unzip the Otuna backup.";
 "IMPORT_ERROR_3" = "An error happened.\nFailed to load the backup config file.";
 "IMPORT_ERROR_4" = "An error happened.\nFailed to read content of the backup file.";
 "IMPORT_ERROR_5" = "An error happened.\nThe 'specific folder' can't be found in this backup.";
@@ -643,7 +643,7 @@
 "IMPORT_ERROR_7" = "An error happened.\nFailed to import user settings (1)";
 "IMPORT_ERROR_8" = "An error happened.\nFailed to import user settings (2)";
 
-"EXPORT_ALERT_MESSAGE" = "All your settings and DeadTweak data will be exported to a backup file.\nYou will be able to load them into a new device or to restore settings.\n\nThe license key and the activation status is not saved in the backup.\n\nThe backup includes: DeadTweak settings, DeadTweak groups, autosave cache file, deleted messages cache file, Account manager, fake usernames...\n\nWe recommend that you to save the backup file to a safe place.";
+"EXPORT_ALERT_MESSAGE" = "All your settings and Otuna data will be exported to a backup file.\nYou will be able to load them into a new device or to restore settings.\n\nThe license key and the activation status is not saved in the backup.\n\nThe backup includes: Otuna settings, Otuna groups, autosave cache file, deleted messages cache file, Account manager, fake usernames...\n\nWe recommend that you to save the backup file to a safe place.";
 
 "EXPORT_SPECIFIC_FOLDER_ALERT" = "Do you want to include all medias save in the Specific folder in this backup?";
 
@@ -661,34 +661,34 @@
 "DELETE_ALL_CONVERSATION_MESSAGE" = "Do you want to delete all conversations?\nThis action is definitive.\nThis can take some time with a large number of conversations.\n\nIf some conversations failed to be deleted, please retry to delete all conversations.";
 "DELETE_ALL_CONVERSATION_DELETING" = "\nDeleting conversations ...\nPlease wait";
 
-/* DeadTweak Fonts */
+/* Otuna Fonts */
 
-"CHANGE_FONT_CELL_TITLE" = "Change [appname] font";
+"CHANGE_FONT_CELL_TITLE" = "Change Snapchat font";
 
-"CHANGE_SNAP_FONT_SECTION_TITLE" = "CHANGE [appname] FONT";
+"CHANGE_SNAP_FONT_SECTION_TITLE" = "CHANGE Snapchat FONT";
 "FONTS_LIST_SECTION_TITLE" = "FONTS LIST";
 "CUSTOM_FONTS_LIST_SECTION_TITLE" = "CUSTOM FONTS LIST";
 
-"DEADTWEAK_FONT_ALERT_TITLE" = "DeadTweak Font";
+"Otuna_FONT_ALERT_TITLE" = "Otuna Font";
 
-"CHANGE_FONT_TITLE" = "Change [appname] Font";
-"CHANGE_FONT_DESCRIPTION" = "You can change the [appname] font by an other System font or by a Custom font.\n\nYou can download custom fonts by clicking on 'Download Custom Fonts'. A new page will open with many fonts available for download. Click on the 'Download' button to download the font. The font will be available in the 'Custom Fonts' page.\n\nWARNING 1: Some fonts aren't fully compatible and may crash [appname] (when opening a friend conversation page for example). You can try other available fonts.\n\nWARNING 2: Some fonts that crash [appname] can be fixed be enabling only the regular or bold version of that font.";
+"CHANGE_FONT_TITLE" = "Change Snapchat Font";
+"CHANGE_FONT_DESCRIPTION" = "You can change the Snapchat font by an other System font or by a Custom font.\n\nYou can download custom fonts by clicking on 'Download Custom Fonts'. A new page will open with many fonts available for download. Click on the 'Download' button to download the font. The font will be available in the 'Custom Fonts' page.\n\nWARNING 1: Some fonts aren't fully compatible and may crash Snapchat (when opening a friend conversation page for example). You can try other available fonts.\n\nWARNING 2: Some fonts that crash Snapchat can be fixed be enabling only the regular or bold version of that font.";
 
 "SELECTED_FONT_TITLE" = "Selected font";
 "CHANGE_REGULAR_TITLE" = "Change regular font";
 "CHANGE_BOLD_TITLE" = "Change bold font";
-"[appname]_MUST_BE_RESTARTED" = "[appname] must be restarted to apply the changes.";
+"Snapchat_MUST_BE_RESTARTED" = "Snapchat must be restarted to apply the changes.";
 "SYSTEM_FONT_TITLE" = "System Fonts";
 "CUSTOM_FONT_TITLE" = "Custom Fonts";
 "DOWNLOAD_CUSTOM_FONT" = "Download Custom Fonts";
 "RESTORE_DEFAULT_TITLE" = "Restore default font";
 
 "AFONT_CREDIT_TITLE" = "A-Font Credit";
-"AFONT_CREDIT_DESCRIPTION" = "Thank to the website a-font.rpgfarm.com you can download fonts easily for DeadTweak.\n\nCheck out the tweak A-Font made by @Bawappie to change all your iOS system font.";
+"AFONT_CREDIT_DESCRIPTION" = "Thank to the website a-font.rpgfarm.com you can download fonts easily for Otuna.\n\nCheck out the tweak A-Font made by @Bawappie to change all your iOS system font.";
 
-"SELECT_NEW_FONT_MESSAGE" = "Do you want to select the font '%@' as a default font for [appname]?";
-"RESTORE_DEFAULT_FONT_MESSAGE" = "The default font of [appname] will be restored.\n\n[appname] will be restarted to apply the new selected font.";
-"[appname]_WILL_RESTART" = "[appname] will be restarted to apply the new selected font.";
+"SELECT_NEW_FONT_MESSAGE" = "Do you want to select the font '%@' as a default font for Snapchat?";
+"RESTORE_DEFAULT_FONT_MESSAGE" = "The default font of Snapchat will be restored.\n\nSnapchat will be restarted to apply the new selected font.";
+"Snapchat_WILL_RESTART" = "Snapchat will be restarted to apply the new selected font.";
 
 "START_DOWNLOAD_FONT_MESSAGE" = "Do you want to start the download of the font '%@' ?";
 "DOWNLOADING_FONT_MESSAGE" = "\nDownloading fonts\nPlease wait ...";
@@ -697,4 +697,4 @@
 
 "NO_FONTS_DOWNLOADED" = "No Fonts downloaded!";
 "SELECT_FONT_ACTION_TITLE" = "Select this font";
-"CANT_REMOVE_FONT_MESSAGE" = "This font is your actual selected font. You can't remove it.\nPlease select an other font or restore the default [appname] font and retry to delete it.";
+"CANT_REMOVE_FONT_MESSAGE" = "This font is your actual selected font. You can't remove it.\nPlease select an other font or restore the default Snapchat font and retry to delete it.";
