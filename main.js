@@ -1,4 +1,4 @@
-var keys = ["Eartinq"]
+var keys = ["Billy"]
 
 function verify(){
     var textfield = document.getElementById("licenceinput")
