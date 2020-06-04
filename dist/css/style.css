@@ -1386,6 +1386,42 @@ label {
     height: auto;
 }
 
+#licence{
+    height: 30%;
+    width: 70%;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    margin-left: -35%;
+    padding: 3%;
+    text-align: center;
+    color: aqua;
+    border: 1px black;
+    background: black;
+}
+
+#licenceinput{
+    margin-bottom: 4%;
+    width: 80%;
+    background: 
+}
+
+#veriftext{
+    display: none;
+    position: relative;
+    margin-bottom: 4%;
+    color: #ff3333;
+    font-size: 17px;
+}
+
+#cydia{
+    display: none;
+}
+
+#site{
+    display: none;
+}
+
 .hero-figure::before,
 .hero-figure::after {
     content: '';

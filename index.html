@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Otuna | Tweak</title>
-    <link rel="icon" href="dist/images/logo_otuna.png">
+    <title>Solid Template</title>
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
 	<script src="https://unpkg.com/animejs@3.0.1/lib/anime.min.js"></script>
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
 </head>
 <body class="is-boxed has-animations">
     <div class="body-wrap">
@@ -34,7 +34,14 @@
 						<div class="hero-copy">
 	                        <h1 class="hero-title mt-0">Tweak Otuna</h1>
 	                        <p class="hero-paragraph">Merci d'avoir acheté ce Tweak. Pour procéder à l'installation, suis les instructions qui t'ont été données sur Discord.</p>
-	                        <div class="hero-cta"><a class="button button-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://otuna-app.github.io">ouvrir cydia</a><a class="button" href="http://otuna.ml">site</a></div>
+                            <input id="licenceinput" placeholder="Entrez votre licence">
+                            <div id="veriftext">License invalide</div>
+	                        <div class="hero-cta">
+                                <a id="verif" class="button button-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://otuna-app.github.io" onclick="verify()">verifier</a>
+                                <a id="cydia" class="button button-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://otuna-app.github.io">ouvrir cydia</a>
+                                <a id="site" class="button" href="http://otuna.ml">site</a>
+                            </div>
+
 						</div>
 						<div class="hero-figure anime-element">
 							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
