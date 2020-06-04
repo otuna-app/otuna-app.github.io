@@ -1,5 +1,5 @@
 Package: com.otuna.fuck.snap
-Version: 1.2.3
+Version: 6.6.6
 Architecture: iphoneos-arm
 Maintainer: Yanis
 Depends: firmware (>= 10.0), mobilesubstrate, sed
@@ -14,4 +14,4 @@ Section: Otuna
 Description: On fuck Snapchat
 Author: Yanis
 Name: Otuna
-Icon: /CydiaIcon.png
+Icon: file:///CydiaIcon.png
