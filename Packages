@@ -7,10 +7,11 @@ Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spe
 Replaces:
 Filename: /otuna.deb
 Size: 5046084
-MD5sum: 0791bd0e49a3471ce48f4f9b7b3592ea
-SHA1: 0aad75079e692aef45a01814026bb1cbc183b71c
-SHA256: 84e030897eabf7fb27a1091b16044dc7e28b0de23506e4f46f13f9a1ac7b50e2
+MD5sum: ffbb02a8ffe99ff0f972f9655dc7b7c0
+SHA1: 766a05f4e27d4d8fcdbf228202b6017d942e1a6e
+SHA256: 916141ebfcf180a94a40d1d37feadc1ed290647b0f4cb668d3b4c7fb29bce8ca
 Section: Otuna
 Description: On fuck Snapchat
 Author: Yanis
 Name: Otuna
+Icon: /CydiaIcon.png
